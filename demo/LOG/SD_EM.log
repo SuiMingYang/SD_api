@@ -1,0 +1,541 @@
+Tue, 08 Dec 2015 19:02:34 utils.py[line:89] DEBUG (0.164) QUERY = u'SELECT "demo_sdmodel"."id", "demo_sdmodel"."created", "demo_sdmodel"."created_time", "demo_sdmodel"."sdmethod", "demo_sdmodel"."table", "demo_sdmodel"."c", "demo_sdmodel"."s", "demo_sdmodel"."b" FROM "demo_sdmodel" LIMIT 21' - PARAMS = (); args=()
+Tue, 08 Dec 2015 19:03:33 utils.py[line:89] DEBUG (0.001) QUERY = u'SELECT "demo_sdmodel"."id", "demo_sdmodel"."created", "demo_sdmodel"."created_time", "demo_sdmodel"."sdmethod", "demo_sdmodel"."table", "demo_sdmodel"."c", "demo_sdmodel"."s", "demo_sdmodel"."b" FROM "demo_sdmodel" LIMIT 21' - PARAMS = (); args=()
+Tue, 08 Dec 2015 19:07:08 utils.py[line:89] DEBUG (0.001) QUERY = u'SELECT "demo_sdmodel"."id", "demo_sdmodel"."created", "demo_sdmodel"."created_time", "demo_sdmodel"."sdmethod", "demo_sdmodel"."table", "demo_sdmodel"."c", "demo_sdmodel"."s", "demo_sdmodel"."b" FROM "demo_sdmodel" LIMIT 21' - PARAMS = (); args=()
+Tue, 08 Dec 2015 19:10:12 utils.py[line:89] DEBUG (0.001) QUERY = u'SELECT "demo_sdmodel"."id", "demo_sdmodel"."created", "demo_sdmodel"."created_time", "demo_sdmodel"."sdmethod", "demo_sdmodel"."table", "demo_sdmodel"."c", "demo_sdmodel"."s", "demo_sdmodel"."b" FROM "demo_sdmodel" LIMIT 21' - PARAMS = (); args=()
+Tue, 08 Dec 2015 19:13:17 utils.py[line:89] DEBUG (0.002) QUERY = u'SELECT "demo_sdmodel"."id", "demo_sdmodel"."created", "demo_sdmodel"."created_time", "demo_sdmodel"."sdmethod", "demo_sdmodel"."table", "demo_sdmodel"."c", "demo_sdmodel"."s", "demo_sdmodel"."b" FROM "demo_sdmodel" LIMIT 21' - PARAMS = (); args=()
+Tue, 08 Dec 2015 19:13:26 utils.py[line:89] DEBUG (0.000) QUERY = u'BEGIN' - PARAMS = (); args=None
+Tue, 08 Dec 2015 19:13:26 utils.py[line:89] DEBUG (0.001) QUERY = u'INSERT INTO "demo_sdmodel" ("created", "created_time", "sdmethod", "table", "c", "s", "b") VALUES (%s, %s, %s, %s, %s, %s, %s)' - PARAMS = (u'2015-12-08', u'19-13-24', u'test', u'test', u'', u'', u''); args=[u'2015-12-08', u'19-13-24', u'test', u'test', '', '', '']
+Tue, 08 Dec 2015 19:13:37 views.py[line:49] INFO cal...........
+Tue, 08 Dec 2015 19:17:14 utils.py[line:89] DEBUG (0.001) QUERY = u'SELECT "demo_sdmodel"."id", "demo_sdmodel"."created", "demo_sdmodel"."created_time", "demo_sdmodel"."sdmethod", "demo_sdmodel"."table", "demo_sdmodel"."c", "demo_sdmodel"."s", "demo_sdmodel"."b" FROM "demo_sdmodel" LIMIT 21' - PARAMS = (); args=()
+Tue, 08 Dec 2015 19:17:22 utils.py[line:89] DEBUG (0.000) QUERY = u'BEGIN' - PARAMS = (); args=None
+Tue, 08 Dec 2015 19:17:22 utils.py[line:89] DEBUG (0.001) QUERY = u'INSERT INTO "demo_sdmodel" ("created", "created_time", "sdmethod", "table", "c", "s", "b") VALUES (%s, %s, %s, %s, %s, %s, %s)' - PARAMS = (u'2015-12-08', u'19-17-19', u'sd_pca', u'test', u'', u'', u''); args=[u'2015-12-08', u'19-17-19', u'sd_pca', u'test', '', '', '']
+Tue, 08 Dec 2015 19:17:33 views.py[line:49] INFO cal...........
+Tue, 08 Dec 2015 19:22:23 utils.py[line:89] DEBUG (0.000) QUERY = u'BEGIN' - PARAMS = (); args=None
+Tue, 08 Dec 2015 19:22:23 utils.py[line:89] DEBUG (0.001) QUERY = u'INSERT INTO "demo_sdmodel" ("created", "created_time", "sdmethod", "table", "c", "s", "b") VALUES (%s, %s, %s, %s, %s, %s, %s)' - PARAMS = (u'2015-12-08', u'19-22-23', u'sd_pca', u'test', u'', u'', u''); args=[u'2015-12-08', u'19-22-23', u'sd_pca', u'test', '', '', '']
+Tue, 08 Dec 2015 19:22:23 views.py[line:49] INFO cal...........
+Tue, 08 Dec 2015 19:22:23 __init__.py[line:249] DEBUG Successfuly imported extension module "markdown.extensions.headerid".
+Tue, 08 Dec 2015 19:22:23 __init__.py[line:190] DEBUG Successfully loaded extension "markdown.extensions.headerid.HeaderIdExtension".
+Tue, 08 Dec 2015 19:23:39 utils.py[line:89] DEBUG (0.000) QUERY = u'BEGIN' - PARAMS = (); args=None
+Tue, 08 Dec 2015 19:23:39 utils.py[line:89] DEBUG (0.154) QUERY = u'INSERT INTO "demo_sdmodel" ("created", "created_time", "sdmethod", "table", "c", "s", "b") VALUES (%s, %s, %s, %s, %s, %s, %s)' - PARAMS = (u'2015-12-08', u'19-23-39', u'sd_pca', u'test', u'', u'', u''); args=[u'2015-12-08', u'19-23-39', u'sd_pca', u'test', '', '', '']
+Tue, 08 Dec 2015 19:23:39 views.py[line:49] INFO cal...........
+Tue, 08 Dec 2015 19:23:39 __init__.py[line:249] DEBUG Successfuly imported extension module "markdown.extensions.headerid".
+Tue, 08 Dec 2015 19:23:39 __init__.py[line:190] DEBUG Successfully loaded extension "markdown.extensions.headerid.HeaderIdExtension".
+Tue, 08 Dec 2015 19:23:57 utils.py[line:89] DEBUG (0.000) QUERY = u'BEGIN' - PARAMS = (); args=None
+Tue, 08 Dec 2015 19:23:57 utils.py[line:89] DEBUG (0.001) QUERY = u'INSERT INTO "demo_sdmodel" ("created", "created_time", "sdmethod", "table", "c", "s", "b") VALUES (%s, %s, %s, %s, %s, %s, %s)' - PARAMS = (u'2015-12-08', u'19-23-57', u'sd_pca', u'test', u'', u'', u''); args=[u'2015-12-08', u'19-23-57', u'sd_pca', u'test', '', '', '']
+Tue, 08 Dec 2015 19:23:57 views.py[line:49] INFO cal...........
+Tue, 08 Dec 2015 19:23:57 __init__.py[line:249] DEBUG Successfuly imported extension module "markdown.extensions.headerid".
+Tue, 08 Dec 2015 19:23:57 __init__.py[line:190] DEBUG Successfully loaded extension "markdown.extensions.headerid.HeaderIdExtension".
+Tue, 08 Dec 2015 19:25:33 utils.py[line:89] DEBUG (0.002) QUERY = u'SELECT "demo_sdmodel"."id", "demo_sdmodel"."created", "demo_sdmodel"."created_time", "demo_sdmodel"."sdmethod", "demo_sdmodel"."table", "demo_sdmodel"."c", "demo_sdmodel"."s", "demo_sdmodel"."b" FROM "demo_sdmodel" LIMIT 21' - PARAMS = (); args=()
+Tue, 08 Dec 2015 19:25:44 utils.py[line:89] DEBUG (0.000) QUERY = u'BEGIN' - PARAMS = (); args=None
+Tue, 08 Dec 2015 19:25:44 utils.py[line:89] DEBUG (0.001) QUERY = u'INSERT INTO "demo_sdmodel" ("created", "created_time", "sdmethod", "table", "c", "s", "b") VALUES (%s, %s, %s, %s, %s, %s, %s)' - PARAMS = (u'2015-12-08', u'19-25-40', u'sd_pca', u'test', u'', u'', u''); args=[u'2015-12-08', u'19-25-40', u'sd_pca', u'test', '', '', '']
+Tue, 08 Dec 2015 19:25:55 views.py[line:49] INFO cal...........
+Tue, 08 Dec 2015 19:27:22 __init__.py[line:249] DEBUG Successfuly imported extension module "markdown.extensions.headerid".
+Tue, 08 Dec 2015 19:27:22 __init__.py[line:190] DEBUG Successfully loaded extension "markdown.extensions.headerid.HeaderIdExtension".
+Tue, 08 Dec 2015 19:27:36 utils.py[line:89] DEBUG (0.000) QUERY = u'BEGIN' - PARAMS = (); args=None
+Tue, 08 Dec 2015 19:27:36 utils.py[line:89] DEBUG (0.002) QUERY = u'INSERT INTO "demo_sdmodel" ("created", "created_time", "sdmethod", "table", "c", "s", "b") VALUES (%s, %s, %s, %s, %s, %s, %s)' - PARAMS = (u'2015-12-08', u'19-27-34', u'sd_pca', u'test', u'', u'', u''); args=[u'2015-12-08', u'19-27-34', u'sd_pca', u'test', '', '', '']
+Tue, 08 Dec 2015 20:17:43 views.py[line:49] INFO cal...........
+Wed, 09 Dec 2015 12:55:23 utils.py[line:89] DEBUG (0.002) QUERY = u'SELECT "demo_sdmodel"."id", "demo_sdmodel"."created", "demo_sdmodel"."created_time", "demo_sdmodel"."sdmethod", "demo_sdmodel"."table", "demo_sdmodel"."c", "demo_sdmodel"."s", "demo_sdmodel"."b" FROM "demo_sdmodel" LIMIT 21' - PARAMS = (); args=()
+Wed, 09 Dec 2015 13:01:48 utils.py[line:89] DEBUG (0.000) QUERY = u'BEGIN' - PARAMS = (); args=None
+Wed, 09 Dec 2015 13:01:48 utils.py[line:89] DEBUG (0.001) QUERY = u'INSERT INTO "demo_sdmodel" ("created", "created_time", "sdmethod", "table", "c", "s", "b") VALUES (%s, %s, %s, %s, %s, %s, %s)' - PARAMS = (u'2015-12-09', u'12-55-34', u'sd_pca', u'test', u'2', u'', u''); args=[u'2015-12-09', u'12-55-34', u'sd_pca', u'test', u'2', '', '']
+Wed, 09 Dec 2015 13:01:56 utils.py[line:89] DEBUG (0.000) QUERY = u'BEGIN' - PARAMS = (); args=None
+Wed, 09 Dec 2015 13:01:56 utils.py[line:89] DEBUG (0.001) QUERY = u'INSERT INTO "demo_sdmodel" ("created", "created_time", "sdmethod", "table", "c", "s", "b") VALUES (%s, %s, %s, %s, %s, %s, %s)' - PARAMS = (u'2015-12-09', u'13-01-52', u'sd_pca', u'test', u'2', u'', u''); args=[u'2015-12-09', u'13-01-52', u'sd_pca', u'test', u'2', '', '']
+Wed, 09 Dec 2015 13:02:08 views.py[line:49] INFO cal...........
+Wed, 09 Dec 2015 13:02:21 views.py[line:49] INFO cal...........
+Wed, 09 Dec 2015 13:02:37 sd_pca.py[line:53] INFO start sd_pca
+Wed, 09 Dec 2015 13:02:51 sd_pca.py[line:53] INFO start sd_pca
+Wed, 09 Dec 2015 13:02:52 __init__.py[line:249] DEBUG Successfuly imported extension module "markdown.extensions.headerid".
+Wed, 09 Dec 2015 13:02:52 __init__.py[line:190] DEBUG Successfully loaded extension "markdown.extensions.headerid.HeaderIdExtension".
+Wed, 09 Dec 2015 13:02:54 __init__.py[line:249] DEBUG Successfuly imported extension module "markdown.extensions.headerid".
+Wed, 09 Dec 2015 13:02:54 __init__.py[line:190] DEBUG Successfully loaded extension "markdown.extensions.headerid.HeaderIdExtension".
+2015-12-11 10:26:35,772 sd_em.py[line:60] INFO start sd_em
+2015-12-11 10:26:41,382 sd_em.py[line:64] INFO cleaned  area:北京市 天津市 山西省 河北省
+2015-12-11 10:26:41,383 sd_em.py[line:65] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2015-12-11 14:35:27,399 sd_em.py[line:60] INFO start sd_em
+2015-12-11 14:35:31,311 sd_em.py[line:64] INFO cleaned  area:北京市 天津市 山西省 河北省
+2015-12-11 14:35:31,312 sd_em.py[line:65] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2015-12-18 11:32:35,682 sd_em.py[line:60] INFO start sd_em
+2015-12-18 11:32:42,791 sd_em.py[line:64] INFO cleaned  area:北京市 天津市 山西省 河北省
+2015-12-18 11:32:42,794 sd_em.py[line:65] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2015-12-24 10:45:37,012 sd_em.py[line:60] INFO start sd_em
+2015-12-24 10:45:41,722 sd_em.py[line:64] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2015-12-24 10:45:41,725 sd_em.py[line:65] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2015-12-24 15:56:00,815 sd_em.py[line:60] INFO start sd_em
+2015-12-24 16:03:55,136 sd_em.py[line:60] INFO start sd_em
+2015-12-24 16:08:25,139 sd_em.py[line:60] INFO start sd_em
+2016-01-06 09:03:33,809 sd_em.py[line:60] INFO start sd_em
+2016-01-06 09:03:37,214 sd_em.py[line:64] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-01-06 09:03:37,216 sd_em.py[line:65] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-01-06 12:59:29,418 sd_em.py[line:60] INFO start sd_em
+2016-01-06 12:59:34,523 sd_em.py[line:64] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-01-06 12:59:34,524 sd_em.py[line:65] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-04-14 09:30:39,108 sd_em.py[line:59] INFO start sd_em
+2016-04-14 09:30:39,128 sd_em.py[line:63] INFO cleaned  area:咸阳市 商洛市 安康市 宝鸡市 延安市 榆林市 汉中市 渭南市 西安市 铜川市
+2016-04-14 09:30:39,128 sd_em.py[line:64] INFO selected indi:固定资产投资额 常住人口 第一产业增加值 第三产业增加值 第二产业增加值 粮食产量
+2016-04-26 14:35:29,948 sd_em.py[line:59] INFO start sd_em
+2016-04-26 14:35:29,960 sd_em.py[line:63] INFO cleaned  area:中国 北京市 河北省
+2016-04-26 14:35:29,960 sd_em.py[line:64] INFO selected indi:GDP GDP指数
+2016-04-26 14:35:39,831 sd_em.py[line:59] INFO start sd_em
+2016-04-26 14:35:39,842 sd_em.py[line:63] INFO cleaned  area:中国 北京市 河北省 西藏
+2016-04-26 14:35:39,842 sd_em.py[line:64] INFO selected indi:GDP GDP指数
+2016-04-26 14:35:53,697 sd_em.py[line:59] INFO start sd_em
+2016-04-26 14:35:53,710 sd_em.py[line:63] INFO cleaned  area:中国 北京市 河北省 西藏
+2016-04-26 14:35:53,710 sd_em.py[line:64] INFO selected indi:GDP GDP指数
+2016-04-26 14:36:14,796 sd_em.py[line:59] INFO start sd_em
+2016-04-26 14:36:14,809 sd_em.py[line:63] INFO cleaned  area:中国 北京市 河北省 西藏
+2016-04-26 14:36:14,809 sd_em.py[line:64] INFO selected indi:GDP
+2016-04-26 14:36:19,454 sd_em.py[line:59] INFO start sd_em
+2016-04-26 14:36:19,466 sd_em.py[line:63] INFO cleaned  area:中国 河北省 西藏
+2016-04-26 14:36:19,467 sd_em.py[line:64] INFO selected indi:GDP
+2016-04-26 14:36:25,789 sd_em.py[line:59] INFO start sd_em
+2016-04-26 14:36:25,801 sd_em.py[line:63] INFO cleaned  area:中国 河北省
+2016-04-26 14:36:25,802 sd_em.py[line:64] INFO selected indi:GDP
+2016-04-26 14:36:36,838 sd_em.py[line:59] INFO start sd_em
+2016-04-26 14:36:36,849 sd_em.py[line:63] INFO cleaned  area:河北省 海南省 西藏
+2016-04-26 14:36:36,849 sd_em.py[line:64] INFO selected indi:GDP
+2016-04-27 17:10:08,042 sd_em.py[line:59] INFO start sd_em
+2016-04-27 17:10:08,055 sd_em.py[line:63] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-04-27 17:10:08,055 sd_em.py[line:64] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-05 11:25:42,926 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:25:42,937 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-05-05 11:25:42,937 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP
+2016-05-05 11:25:57,946 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:25:57,957 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-05-05 11:25:57,959 sd_em.py[line:64] INFO selected indi:GDP 人均GDP
+2016-05-05 11:26:00,871 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:26:00,881 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-05-05 11:26:00,882 sd_em.py[line:64] INFO selected indi:GDP 人均GDP
+2016-05-05 11:26:08,167 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:26:08,180 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市 山西省 河北省
+2016-05-05 11:26:08,180 sd_em.py[line:64] INFO selected indi:GDP 人均GDP
+2016-05-05 11:26:20,312 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:26:20,323 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市 山西省 河北省
+2016-05-05 11:26:20,325 sd_em.py[line:64] INFO selected indi:GDP 人均GDP
+2016-05-05 11:26:34,157 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:26:34,167 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市 山西省 河北省
+2016-05-05 11:26:34,167 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2016-05-05 11:26:49,115 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:26:49,128 sd_em.py[line:63] INFO cleaned  area:北京市 天津市 山西省 河北省
+2016-05-05 11:26:49,128 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2016-05-05 11:27:02,266 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:27:02,279 sd_em.py[line:63] INFO cleaned  area:上海市 北京市 天津市 山东省 山西省 河北省 河南省 海南省 甘肃省 重庆市 陕西省
+2016-05-05 11:27:02,279 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2016-05-05 11:28:07,828 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:28:07,839 sd_em.py[line:63] INFO cleaned  area:中国
+2016-05-05 11:28:07,841 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-05-05 11:28:22,404 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:28:22,414 sd_em.py[line:63] INFO cleaned  area:呼伦贝尔市 呼和浩特市
+2016-05-05 11:28:22,415 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP
+2016-05-05 11:28:37,828 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:28:37,841 sd_em.py[line:63] INFO cleaned  area:中国
+2016-05-05 11:28:37,841 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-05-05 11:29:09,470 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:29:09,480 sd_em.py[line:63] INFO cleaned  area:中国
+2016-05-05 11:29:09,482 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-05-05 11:35:58,295 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:35:58,305 sd_em.py[line:63] INFO cleaned  area:乌兰察布市 呼和浩特市
+2016-05-05 11:35:58,306 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP
+2016-05-05 11:36:07,414 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:36:07,426 sd_em.py[line:63] INFO cleaned  area:乌兰察布市 呼和浩特市 赤峰市 通辽市
+2016-05-05 11:36:07,426 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP
+2016-05-05 11:36:18,056 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:36:18,069 sd_em.py[line:63] INFO cleaned  area:内蒙古
+2016-05-05 11:36:18,069 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-05-05 11:45:32,384 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:45:32,395 sd_em.py[line:63] INFO cleaned  area:中国 呼伦贝尔市 呼和浩特市
+2016-05-05 11:45:32,395 sd_em.py[line:64] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-05 11:45:51,424 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:45:51,436 sd_em.py[line:63] INFO cleaned  area:中国
+2016-05-05 11:45:51,437 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-05-05 11:46:31,257 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:46:31,270 sd_em.py[line:63] INFO cleaned  area:中国
+2016-05-05 11:46:31,270 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-05-05 11:46:46,424 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:46:46,436 sd_em.py[line:63] INFO cleaned  area:中国 呼伦贝尔市 呼和浩特市
+2016-05-05 11:46:46,437 sd_em.py[line:64] INFO selected indi:GDP 人均GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-05 11:52:41,421 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:52:41,433 sd_em.py[line:63] INFO cleaned  area:中国
+2016-05-05 11:52:41,433 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-05-05 11:53:18,298 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:53:18,309 sd_em.py[line:63] INFO cleaned  area:中国
+2016-05-05 11:53:18,309 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-05 11:57:27,947 sd_em.py[line:59] INFO start sd_em
+2016-05-05 11:57:27,960 sd_em.py[line:63] INFO cleaned  area:中国
+2016-05-05 11:57:27,960 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-05 13:32:00,651 sd_em.py[line:59] INFO start sd_em
+2016-05-05 13:32:00,663 sd_em.py[line:63] INFO cleaned  area:北京市 天津市 山西省 河北省
+2016-05-05 13:32:00,664 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率 人均GDP指数
+2016-05-05 13:32:57,801 sd_em.py[line:59] INFO start sd_em
+2016-05-05 13:32:57,812 sd_em.py[line:63] INFO cleaned  area:中国
+2016-05-05 13:32:57,812 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率 人均GDP指数
+2016-05-05 13:52:24,009 sd_em.py[line:59] INFO start sd_em
+2016-05-05 13:52:24,022 sd_em.py[line:63] INFO cleaned  area:
+2016-05-05 13:52:24,022 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-05-05 13:54:03,630 sd_em.py[line:59] INFO start sd_em
+2016-05-05 13:54:03,642 sd_em.py[line:63] INFO cleaned  area:
+2016-05-05 13:54:03,642 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-05-05 13:56:40,908 sd_em.py[line:59] INFO start sd_em
+2016-05-05 13:56:40,920 sd_em.py[line:63] INFO cleaned  area:
+2016-05-05 13:56:40,921 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-05-05 14:05:59,585 sd_em.py[line:59] INFO start sd_em
+2016-05-05 14:05:59,592 sd_em.py[line:63] INFO cleaned  area:中国 呼伦贝尔市 呼和浩特市
+2016-05-05 14:05:59,594 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP
+2016-05-06 08:29:47,510 sd_em.py[line:59] INFO start sd_em
+2016-05-06 08:29:47,523 sd_em.py[line:63] INFO cleaned  area:咸阳市 商洛市 安康市 宝鸡市 延安市 榆林市 汉中市 渭南市 西安市 铜川市
+2016-05-06 08:29:47,523 sd_em.py[line:64] INFO selected indi:GDP 人口自然增长率 农林牧渔业总产值 农民人均纯收入 常住人口 油料产量 第一产业增加值 粮食产量
+2016-05-06 08:58:30,551 sd_em.py[line:59] INFO start sd_em
+2016-05-06 08:58:30,562 sd_em.py[line:63] INFO cleaned  area:咸阳市 商洛市 安康市 宝鸡市 延安市 榆林市 汉中市 渭南市 西安市 铜川市
+2016-05-06 08:58:30,563 sd_em.py[line:64] INFO selected indi:GDP 人口自然增长率 农林牧渔业总产值 农民人均纯收入 常住人口 油料产量 粮食产量
+2016-05-13 13:14:30,788 sd_em.py[line:59] INFO start sd_em
+2016-05-13 13:14:30,799 sd_em.py[line:63] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-13 13:14:30,799 sd_em.py[line:64] INFO selected indi:GDP GDP指数
+2016-05-16 09:28:51,138 sd_em.py[line:59] INFO start sd_em
+2016-05-16 09:28:51,148 sd_em.py[line:63] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-16 09:28:51,148 sd_em.py[line:64] INFO selected indi:GDP 第三产业增加值 第二产业增加值
+2016-05-17 16:06:47,371 sd_em.py[line:59] INFO start sd_em
+2016-05-17 16:06:47,382 sd_em.py[line:63] INFO cleaned  area:中国 呼伦贝尔市 呼和浩特市
+2016-05-17 16:06:47,382 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP
+2016-05-17 16:06:55,661 sd_em.py[line:59] INFO start sd_em
+2016-05-17 16:06:55,674 sd_em.py[line:63] INFO cleaned  area:中国 呼伦贝尔市 呼和浩特市
+2016-05-17 16:06:55,674 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP指数
+2016-05-17 16:07:05,364 sd_em.py[line:59] INFO start sd_em
+2016-05-17 16:07:05,375 sd_em.py[line:63] INFO cleaned  area:中国 乌兰察布市 乌海市 兴安盟 包头市 呼伦贝尔市 呼和浩特市
+2016-05-17 16:07:05,375 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP指数
+2016-05-17 16:07:21,520 sd_em.py[line:59] INFO start sd_em
+2016-05-17 16:07:21,532 sd_em.py[line:63] INFO cleaned  area:中国 乌兰察布市 乌海市 兴安盟 包头市 呼伦贝尔市 呼和浩特市
+2016-05-17 16:07:21,532 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP指数
+2016-05-17 16:07:49,897 sd_em.py[line:59] INFO start sd_em
+2016-05-17 16:07:49,908 sd_em.py[line:63] INFO cleaned  area:中国 乌鲁木齐市 克孜勒苏柯尔克孜自治州 克拉玛依市 和田地区 喀什地区
+2016-05-17 16:07:49,910 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP
+2016-05-23 10:11:27,191 sd_em.py[line:59] INFO start sd_em
+2016-05-23 10:11:27,203 sd_em.py[line:63] INFO cleaned  area:北京市 天津市
+2016-05-23 10:11:27,203 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP
+2016-05-23 10:14:14,312 sd_em.py[line:59] INFO start sd_em
+2016-05-23 10:14:14,321 sd_em.py[line:63] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省 福建省 辽宁省
+2016-05-23 10:14:14,321 sd_em.py[line:64] INFO selected indi:GDP GDP指数
+2016-05-23 17:09:32,309 sd_em.py[line:59] INFO start sd_em
+2016-05-23 17:09:32,322 sd_em.py[line:63] INFO cleaned  area:七台河市 伊春市 佳木斯市 双鸭山市 哈尔滨市 大庆市 牡丹江市 绥化市 鸡西市 鹤岗市 黑河市 齐齐哈尔市
+2016-05-23 17:09:32,322 sd_em.py[line:64] INFO selected indi:GDP 商品房销售面积 商品房销售额 总人口数 房地产开发住宅投资额 房地产开发投资额 普通高等学校在校学生数 社会消费品零售总额 进出口总额
+2016-05-24 11:43:06,496 sd_em.py[line:59] INFO start sd_em
+2016-05-24 11:43:06,509 sd_em.py[line:63] INFO cleaned  area:七台河市 伊春市 佳木斯市 双鸭山市 哈尔滨市 大庆市 牡丹江市 绥化市 鸡西市 鹤岗市 黑河市 齐齐哈尔市
+2016-05-24 11:43:06,509 sd_em.py[line:64] INFO selected indi:GDP 商品房销售额 总人口数 普通高等学校在校学生数 粮食产量 谷物产量 豆类产量 进出口总额
+2016-05-30 12:34:58,799 sd_em.py[line:59] INFO start sd_em
+2016-05-30 12:34:58,815 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市
+2016-05-30 12:34:58,815 sd_em.py[line:64] INFO selected indi:GDP 第三产业增加值 第二产业增加值
+2016-06-07 11:20:26,056 sd_em.py[line:59] INFO start sd_em
+2016-06-07 11:20:26,069 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-06-07 11:20:26,069 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP指数
+2016-06-07 11:29:22,769 sd_em.py[line:59] INFO start sd_em
+2016-06-07 11:29:22,782 sd_em.py[line:63] INFO cleaned  area:北京市 天津市
+2016-06-07 11:29:22,782 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP
+2016-06-07 11:29:42,888 sd_em.py[line:59] INFO start sd_em
+2016-06-07 11:29:42,898 sd_em.py[line:63] INFO cleaned  area:上海市 黑龙江
+2016-06-07 11:29:42,900 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP
+2016-06-07 11:33:04,848 sd_em.py[line:59] INFO start sd_em
+2016-06-07 11:33:04,859 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-06-07 11:33:04,859 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-06-07 11:33:27,596 sd_em.py[line:59] INFO start sd_em
+2016-06-07 11:33:27,608 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-06-07 11:33:27,608 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-06-07 11:43:34,051 sd_em.py[line:59] INFO start sd_em
+2016-06-07 11:43:34,062 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-06-07 11:43:34,062 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-06-07 11:45:36,558 sd_em.py[line:59] INFO start sd_em
+2016-06-07 11:45:36,569 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-06-07 11:45:36,569 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-06-07 11:50:07,674 sd_em.py[line:59] INFO start sd_em
+2016-06-07 11:50:07,686 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-06-07 11:50:07,687 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-06-07 11:50:14,851 sd_em.py[line:59] INFO start sd_em
+2016-06-07 11:50:14,862 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-06-07 11:50:14,864 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-06-07 11:50:51,417 sd_em.py[line:59] INFO start sd_em
+2016-06-07 11:50:51,430 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-06-07 11:50:51,430 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-06-07 11:51:14,173 sd_em.py[line:59] INFO start sd_em
+2016-06-07 11:51:14,186 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-06-07 11:51:14,186 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-06-07 11:51:52,368 sd_em.py[line:59] INFO start sd_em
+2016-06-07 11:51:52,381 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-06-07 11:51:52,381 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-06-15 15:33:19,641 sd_em.py[line:59] INFO start sd_em
+2016-06-15 15:33:19,653 sd_em.py[line:63] INFO cleaned  area:北京市 天津市 山西省 河北省
+2016-06-15 15:33:19,653 sd_em.py[line:64] INFO selected indi:GDP 第三产业增加值 第二产业增加值
+2016-06-15 17:18:04,164 sd_em.py[line:59] INFO start sd_em
+2016-06-15 17:18:04,171 sd_em.py[line:63] INFO cleaned  area:北京市 天津市 山西省 河北省
+2016-06-15 17:18:04,171 sd_em.py[line:64] INFO selected indi:第一产业增加值 第三产业增加值 第二产业增加值
+2016-06-16 09:01:35,869 sd_em.py[line:59] INFO start sd_em
+2016-06-16 09:01:35,881 sd_em.py[line:63] INFO cleaned  area:北京市 天津市 河北省
+2016-06-16 09:01:35,881 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP增长率 人均GDP指数
+2016-06-16 09:02:02,789 sd_em.py[line:59] INFO start sd_em
+2016-06-16 09:02:02,802 sd_em.py[line:63] INFO cleaned  area:北京市 天津市 河北省
+2016-06-16 09:02:02,802 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP
+2016-06-17 09:34:22,752 sd_em.py[line:59] INFO start sd_em
+2016-06-17 09:34:22,763 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市 河北省
+2016-06-17 09:34:22,763 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2016-06-21 08:44:37,262 sd_em.py[line:59] INFO start sd_em
+2016-06-21 08:44:37,273 sd_em.py[line:63] INFO cleaned  area:北京市 天津市 山西省 河北省
+2016-06-21 08:44:37,273 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-06-22 16:39:52,430 sd_em.py[line:59] INFO start sd_em
+2016-06-22 16:39:52,441 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市
+2016-06-22 16:39:52,443 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP增长率 人均GDP指数 第一产业增加值 第三产业增加值 第二产业增加值
+2016-06-22 16:42:00,005 sd_em.py[line:59] INFO start sd_em
+2016-06-22 16:42:00,016 sd_em.py[line:63] INFO cleaned  area:北京市 天津市 山西省 河北省
+2016-06-22 16:42:00,017 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP增长率 人均GDP指数
+2016-06-22 16:43:45,463 sd_em.py[line:59] INFO start sd_em
+2016-06-22 16:43:45,474 sd_em.py[line:63] INFO cleaned  area:北京市 天津市 山西省 河北省
+2016-06-22 16:43:45,476 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP增长率 人均GDP指数
+2016-06-22 16:52:24,296 sd_em.py[line:59] INFO start sd_em
+2016-06-22 16:52:24,306 sd_em.py[line:63] INFO cleaned  area:北京市 天津市 山西省 河北省
+2016-06-22 16:52:24,308 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP增长率 人均GDP指数
+2016-06-28 09:26:08,039 sd_em.py[line:59] INFO start sd_em
+2016-06-28 09:26:08,051 sd_em.py[line:63] INFO cleaned  area:中国 天津市 山西省 河北省
+2016-06-28 09:26:08,052 sd_em.py[line:64] INFO selected indi:创新能力得分 可用的科学家和工程师得分 大学企业合作研发得分 教师培训的广度得分 数学和科学教育的质量得分 高等教育入学率得分
+2016-06-28 09:27:49,078 sd_em.py[line:59] INFO start sd_em
+2016-06-28 09:27:49,089 sd_em.py[line:63] INFO cleaned  area:中国 天津市 山西省 河北省
+2016-06-28 09:27:49,091 sd_em.py[line:64] INFO selected indi:专利、应用得分 中等教育入学率得分 公司在研发上的投入得分 创新能力得分 初等教育入学率得分 初等教育质量得分 可用的科学家和工程师得分 大学企业合作研发得分 学校的网络接入得分 政府对高新技术产品的投入得分 教师培训的广度得分 教育系统的质量得分 数学和科学教育的质量得分 特定训练服务的可用性得分 知识产权保护得分 科研机构的质量得分 管理学校的质量得分 高等教育入学率得分
+2016-06-28 09:34:19,444 sd_em.py[line:59] INFO start sd_em
+2016-06-28 09:34:19,456 sd_em.py[line:63] INFO cleaned  area:中国 天津市 山西省 河北省
+2016-06-28 09:34:19,457 sd_em.py[line:64] INFO selected indi:专利、应用得分 中等教育入学率得分 公司在研发上的投入得分 创新能力得分 初等教育入学率得分 初等教育质量得分 可用的科学家和工程师得分 大学企业合作研发得分 学校的网络接入得分 政府对高新技术产品的投入得分 教师培训的广度得分 教育系统的质量得分 数学和科学教育的质量得分 特定训练服务的可用性得分 知识产权保护得分 科研机构的质量得分 管理学校的质量得分 高等教育入学率得分
+2016-06-30 13:18:09,453 sd_em.py[line:59] INFO start sd_em
+2016-06-30 13:18:09,464 sd_em.py[line:63] INFO cleaned  area:中国 天津市 山西省 河北省
+2016-06-30 13:18:09,466 sd_em.py[line:64] INFO selected indi:专利、应用得分 公司在研发上的投入得分 创新能力得分 可用的科学家和工程师得分 大学企业合作研发得分 学校的网络接入得分 政府对高新技术产品的投入得分 教师培训的广度得分 教育系统的质量得分 数学和科学教育的质量得分 特定训练服务的可用性得分 知识产权保护得分 科研机构的质量得分 管理学校的质量得分 高等教育入学率得分
+2016-07-01 10:10:49,342 sd_em.py[line:59] INFO start sd_em
+2016-07-01 10:10:49,352 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-07-01 10:10:49,352 sd_em.py[line:64] INFO selected indi:GDP 人均GDP 人均GDP指数
+2016-07-01 10:11:06,615 sd_em.py[line:59] INFO start sd_em
+2016-07-01 10:11:06,627 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市
+2016-07-01 10:11:06,628 sd_em.py[line:64] INFO selected indi:GDP 人均GDP 人均GDP指数
+2016-07-01 10:11:21,615 sd_em.py[line:59] INFO start sd_em
+2016-07-01 10:11:21,627 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市 河北省 辽宁省
+2016-07-01 10:11:21,628 sd_em.py[line:64] INFO selected indi:GDP 人均GDP 人均GDP指数
+2016-07-01 10:12:01,141 sd_em.py[line:59] INFO start sd_em
+2016-07-01 10:12:01,151 sd_em.py[line:63] INFO cleaned  area:上海市 内蒙古 北京市 四川省 山东省 山西省 广西 江西省 河北省 河南省 浙江省 海南省 湖北省 甘肃省 西藏 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-07-01 10:12:01,153 sd_em.py[line:64] INFO selected indi:GDP 人均GDP 人均GDP指数
+2016-07-01 10:12:25,407 sd_em.py[line:59] INFO start sd_em
+2016-07-01 10:12:25,420 sd_em.py[line:63] INFO cleaned  area:上海市 内蒙古 北京市 四川省 山东省 山西省 广西 江西省 河北省 河南省 浙江省 海南省 湖北省 甘肃省 西藏 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-07-01 10:12:25,421 sd_em.py[line:64] INFO selected indi:GDP 中等职业学校数 人均GDP 人均GDP指数 普通高中数
+2016-07-01 10:12:54,368 sd_em.py[line:59] INFO start sd_em
+2016-07-01 10:12:54,380 sd_em.py[line:63] INFO cleaned  area:中国 内蒙古 北京市 山西省 江苏省 河北省 浙江省
+2016-07-01 10:12:54,381 sd_em.py[line:64] INFO selected indi:GDP 中等职业学校数 人均GDP 人均GDP指数
+2016-07-01 10:13:03,000 sd_em.py[line:59] INFO start sd_em
+2016-07-01 10:13:03,013 sd_em.py[line:63] INFO cleaned  area:中国 内蒙古 北京市 山西省 江苏省 河北省 浙江省
+2016-07-01 10:13:03,013 sd_em.py[line:64] INFO selected indi:GDP 中等职业学校数 人均GDP 人均GDP指数
+2016-07-01 10:15:04,032 sd_em.py[line:59] INFO start sd_em
+2016-07-01 10:15:04,042 sd_em.py[line:63] INFO cleaned  area:中国 天津市 河北省
+2016-07-01 10:15:04,042 sd_em.py[line:64] INFO selected indi:人口出生率 人口死亡率
+2016-07-05 11:46:28,434 sd_em.py[line:59] INFO start sd_em
+2016-07-05 11:46:28,444 sd_em.py[line:63] INFO cleaned  area:中国 内蒙古 北京市 天津市 山西省 河北省 浙江省
+2016-07-05 11:46:28,446 sd_em.py[line:64] INFO selected indi:GDP
+2016-07-05 11:47:04,388 sd_em.py[line:59] INFO start sd_em
+2016-07-05 11:47:04,401 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市 河北省
+2016-07-05 11:47:04,401 sd_em.py[line:64] INFO selected indi:GDP 第三产业增加值 第二产业增加值
+2016-07-05 11:47:10,917 sd_em.py[line:59] INFO start sd_em
+2016-07-05 11:47:10,930 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市 河北省
+2016-07-05 11:47:10,930 sd_em.py[line:64] INFO selected indi:GDP 第三产业增加值 第二产业增加值
+2016-07-05 11:47:30,700 sd_em.py[line:59] INFO start sd_em
+2016-07-05 11:47:30,713 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市 河北省
+2016-07-05 11:47:30,713 sd_em.py[line:64] INFO selected indi:GDP 第三产业增加值 第二产业增加值
+2016-07-05 11:47:37,094 sd_em.py[line:59] INFO start sd_em
+2016-07-05 11:47:37,105 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市 河北省
+2016-07-05 11:47:37,105 sd_em.py[line:64] INFO selected indi:GDP 第二产业增加值
+2016-07-15 10:45:47,559 sd_em.py[line:59] INFO start sd_em
+2016-07-15 10:45:47,578 sd_em.py[line:63] INFO cleaned  area:宁夏 新疆 甘肃省 陕西省 青海省
+2016-07-15 10:45:47,579 sd_em.py[line:64] INFO selected indi:GDP总量 人均GDP 人均绿地面积 人均道路面积 公路营运汽车拥有量 农村居民年人均纯收入 国家4A级景区 国家5A级景区 国家重点文物保护单位 城镇居民年人均可支配收入 外商投资总额 旅游总接待人数 旅游总收入 旅游总收入占GDP总量比重 旅行社数量 旅行社营业收入 星级饭店数量 普通高等学校数量 水土流失治理面积 生活垃圾无害化处理率 自然保护区面积 邮电业务量
+2016-08-04 13:53:29,755 sd_em.py[line:59] INFO start sd_em
+2016-08-04 13:53:29,779 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市
+2016-08-04 13:53:29,779 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP指数
+2016-09-01 18:18:26,130 sd_em.py[line:59] INFO start sd_em
+2016-09-01 18:18:26,142 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市
+2016-09-01 18:18:26,144 sd_em.py[line:64] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-09-01 18:19:34,404 sd_em.py[line:59] INFO start sd_em
+2016-09-01 18:19:34,415 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市
+2016-09-01 18:19:34,417 sd_em.py[line:64] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-09-01 18:20:08,654 sd_em.py[line:59] INFO start sd_em
+2016-09-01 18:20:08,665 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市
+2016-09-01 18:20:08,665 sd_em.py[line:64] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-09-01 18:20:57,744 sd_em.py[line:59] INFO start sd_em
+2016-09-01 18:20:57,757 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市
+2016-09-01 18:20:57,759 sd_em.py[line:64] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-09-01 18:21:37,684 sd_em.py[line:59] INFO start sd_em
+2016-09-01 18:21:37,696 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市
+2016-09-01 18:21:37,696 sd_em.py[line:64] INFO selected indi:GDP 城区小学办学实验室 城区小学办学微机室 第一产业增加值 第三产业增加值 第二产业增加值
+2016-09-01 18:22:04,901 sd_em.py[line:59] INFO start sd_em
+2016-09-01 18:22:04,914 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市
+2016-09-01 18:22:04,914 sd_em.py[line:64] INFO selected indi:城区小学办学实验室 城区小学办学微机室
+2016-09-01 18:22:17,795 sd_em.py[line:59] INFO start sd_em
+2016-09-01 18:22:17,808 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市
+2016-09-01 18:22:17,809 sd_em.py[line:64] INFO selected indi:城区小学办学其他用房 城区小学办学图书室 城区小学办学实验室 城区小学办学微机室 城区小学办学生活用房 城区小学办学行政办公用房 城区小学办学语音室 城区小学固定资产总值 城区小学教室 城区小学教师办公室数 城区小学计算机数
+2016-09-01 18:23:11,755 sd_em.py[line:59] INFO start sd_em
+2016-09-01 18:23:11,766 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市
+2016-09-01 18:23:11,766 sd_em.py[line:64] INFO selected indi:城区小学办学其他用房 城区小学办学图书室 城区小学办学实验室 城区小学办学微机室 城区小学办学生活用房 城区小学办学行政办公用房 城区小学办学语音室 城区小学固定资产总值 城区小学教学仪器设备资产总值 城区小学教室 城区小学教师办公室数 城区小学计算机数
+2016-09-01 18:23:25,164 sd_em.py[line:59] INFO start sd_em
+2016-09-01 18:23:25,176 sd_em.py[line:63] INFO cleaned  area:中国 北京市 天津市
+2016-09-01 18:23:25,176 sd_em.py[line:64] INFO selected indi:城区小学办学其他用房 城区小学办学图书室 城区小学办学实验室 城区小学办学微机室 城区小学办学生活用房 城区小学办学行政办公用房 城区小学办学语音室 城区小学固定资产总值 城区小学教学仪器设备资产总值 城区小学教室 城区小学教师办公室数 城区小学计算机数
+2016-09-28 15:46:47,378 sd_em.py[line:59] INFO start sd_em
+2016-09-28 15:46:47,391 sd_em.py[line:63] INFO cleaned  area:北京市 广西 黑龙江
+2016-09-28 15:46:47,391 sd_em.py[line:64] INFO selected indi:乡村学前教育离园(班)人数 城乡结合区学前教育入园(班)人数 城乡结合区学前教育离园(班)人数 镇区学前教育离园(班)人数
+2016-09-28 16:38:28,782 sd_em.py[line:59] INFO start sd_em
+2016-09-28 16:38:28,795 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-09-28 16:38:28,795 sd_em.py[line:64] INFO selected indi:城区学前教育入园(班)人数 城区学前教育在园(班)人数 城区学前教育离园(班)人数
+2016-09-28 16:40:08,357 sd_em.py[line:59] INFO start sd_em
+2016-09-28 16:40:08,368 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-09-28 16:40:08,368 sd_em.py[line:64] INFO selected indi:城区学前教育入园(班)人数 城区学前教育在园(班)人数 城区学前教育离园(班)人数
+2016-09-28 16:40:59,969 sd_em.py[line:59] INFO start sd_em
+2016-09-28 16:40:59,980 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-09-28 16:40:59,982 sd_em.py[line:64] INFO selected indi:城区学前教育入园(班)人数 城区学前教育在园(班)人数 城区学前教育离园(班)人数
+2016-09-28 16:42:23,144 sd_em.py[line:59] INFO start sd_em
+2016-09-28 16:42:23,155 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-09-28 16:42:23,157 sd_em.py[line:64] INFO selected indi:城区学前教育入园(班)人数 城区学前教育在园(班)人数 城区学前教育离园(班)人数
+2016-09-28 16:44:31,815 sd_em.py[line:59] INFO start sd_em
+2016-09-28 16:44:31,826 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-09-28 16:44:31,828 sd_em.py[line:64] INFO selected indi:城区学前教育入园(班)人数 城区学前教育在园(班)人数 城区学前教育离园(班)人数
+2016-09-28 16:46:25,022 sd_em.py[line:59] INFO start sd_em
+2016-09-28 16:46:25,032 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-09-28 16:46:25,033 sd_em.py[line:64] INFO selected indi:城区学前教育入园(班)人数 城区学前教育在园(班)人数 城区学前教育离园(班)人数
+2016-09-28 16:47:07,430 sd_em.py[line:59] INFO start sd_em
+2016-09-28 16:47:07,440 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-09-28 16:47:07,441 sd_em.py[line:64] INFO selected indi:城区学前教育入园(班)人数 城区学前教育在园(班)人数 城区学前教育离园(班)人数
+2016-09-28 17:47:00,461 sd_em.py[line:59] INFO start sd_em
+2016-09-28 17:47:00,473 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-09-28 17:47:00,473 sd_em.py[line:64] INFO selected indi:城区学前教育入园(班)人数 城区学前教育在园(班)人数 城区学前教育离园(班)人数
+2016-09-29 13:07:16,302 sd_em.py[line:59] INFO start sd_em
+2016-09-29 13:07:16,315 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-09-29 13:07:16,315 sd_em.py[line:64] INFO selected indi:城乡结合区学前教育在园(班)人数 城区学前教育入园(班)人数 城区学前教育在园(班)人数 城区学前教育离园(班)人数
+2016-09-29 13:07:44,516 sd_em.py[line:59] INFO start sd_em
+2016-09-29 13:07:44,529 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2016-09-29 13:07:44,529 sd_em.py[line:64] INFO selected indi:城区学前教育入园(班)人数 城区学前教育在园(班)人数 城区学前教育离园(班)人数
+2016-10-08 10:34:33,263 sd_em.py[line:59] INFO start sd_em
+2016-10-08 10:34:33,276 sd_em.py[line:63] INFO cleaned  area:南京市 宿迁市 常州市 泰州市 淮安市 镇江市
+2016-10-08 10:34:33,276 sd_em.py[line:64] INFO selected indi:中等专业教育毕业生数 农林牧渔服务业增加值 固定资产投资中设备、工器具购置投资 普通中学毕业生数 私营个体经济固定资产投资额 第一产业固定资产投资额
+2016-10-09 09:55:53,944 sd_em.py[line:59] INFO start sd_em
+2016-10-09 09:55:53,950 sd_em.py[line:63] INFO cleaned  area:上海市 中国 内蒙古 北京市 吉林省 天津市 安徽省 山西省 江苏省 江西省 河北省 浙江省 福建省 辽宁省 黑龙江
+2016-10-09 09:55:53,950 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2016-11-02 14:30:34,224 sd_em.py[line:59] INFO start sd_em
+2016-11-02 14:30:34,236 sd_em.py[line:63] INFO cleaned  area:济南市 青岛市
+2016-11-02 14:30:34,236 sd_em.py[line:64] INFO selected indi:GDP增长率 地区生产总值 城镇居民家庭人均可支配收入
+2016-11-02 14:47:38,790 sd_em.py[line:59] INFO start sd_em
+2016-11-02 14:47:38,805 sd_em.py[line:63] INFO cleaned  area:南京市 厦门市 哈尔滨市 大连市 宁波市 广州市 成都市 杭州市 武汉市 沈阳市 济南市 深圳市 西安市 长春市 青岛市
+2016-11-02 14:47:38,805 sd_em.py[line:64] INFO selected indi:GDP增长率 专利申请数 人均公园绿地面积 人均地区生产总值 人均城市道路面积 全社会固定资产投资 公共图书馆数 地区生产总值 地方财政预算内支出 地方财政预算内收入 城乡居民储蓄年末余额 城市建区面积 城镇居民家庭人均可支配收入 客运总量 居民消费价格指数 居民生活用水 工业增加值 市区非农业人口 年末实有城市道路面积 年末金融机构存款余额 年末金融机构贷款余额 建成区绿化覆盖率 普通高校在校学生数 污水处理率 生活垃圾无害化处理率 研发经费总支出 社会消费品零售总额 科技活动人员数 第三产业占GDP的比重 第二产业占GDP的比重 货运总量 进出口总额 邮电业务总量
+2016-11-03 09:05:41,311 sd_em.py[line:59] INFO start sd_em
+2016-11-03 09:05:41,325 sd_em.py[line:63] INFO cleaned  area:南京市 厦门市 哈尔滨市 大连市 宁波市 广州市 成都市 杭州市 武汉市 沈阳市 济南市 深圳市 西安市 长春市 青岛市
+2016-11-03 09:05:41,325 sd_em.py[line:64] INFO selected indi:GDP增长率 专利申请数 人均公园绿地面积 人均地区生产总值 人均城市道路面积 全社会固定资产投资 公共图书馆数 地区生产总值 地方财政预算内支出 地方财政预算内收入 城乡居民储蓄年末余额 城市建区面积 城镇居民家庭人均可支配收入 客运总量 居民消费价格指数 居民生活用水 工业增加值 市区非农业人口 年末实有城市道路面积 年末金融机构存款余额 年末金融机构贷款余额 建成区绿化覆盖率 普通高校在校学生数 污水处理率 生活垃圾无害化处理率 研发经费总支出 社会消费品零售总额 科技活动人员数 第三产业占GDP的比重 第二产业占GDP的比重 货运总量 进出口总额 邮电业务总量
+2016-11-03 09:17:55,062 sd_em.py[line:59] INFO start sd_em
+2016-11-03 09:17:55,076 sd_em.py[line:63] INFO cleaned  area:南京市 厦门市 哈尔滨市 大连市 宁波市 广州市 成都市 杭州市 武汉市 沈阳市 济南市 深圳市 西安市 长春市 青岛市
+2016-11-03 09:17:55,076 sd_em.py[line:64] INFO selected indi:GDP增长率 专利申请数 人均公园绿地面积 人均地区生产总值 人均城市道路面积 全社会固定资产投资 公共图书馆数 地区生产总值 地方财政预算内支出 地方财政预算内收入 城乡居民储蓄年末余额 城市建区面积 城镇居民家庭人均可支配收入 客运总量 居民消费价格指数 居民生活用水 工业增加值 市区非农业人口 年末实有城市道路面积 年末金融机构存款余额 年末金融机构贷款余额 建成区绿化覆盖率 普通高校在校学生数 污水处理率 生活垃圾无害化处理率 研发经费总支出 社会消费品零售总额 科技活动人员数 第三产业占GDP的比重 第二产业占GDP的比重 货运总量 进出口总额 邮电业务总量
+2016-11-03 09:19:41,332 sd_em.py[line:59] INFO start sd_em
+2016-11-03 09:19:41,346 sd_em.py[line:63] INFO cleaned  area:南京市 厦门市 哈尔滨市 大连市 宁波市 广州市 成都市 杭州市 武汉市 沈阳市 济南市 深圳市 西安市 长春市 青岛市
+2016-11-03 09:19:41,348 sd_em.py[line:64] INFO selected indi:GDP增长率 专利申请数 人均公园绿地面积 人均地区生产总值 人均城市道路面积 全社会固定资产投资 公共图书馆数 地区生产总值 地方财政预算内支出 地方财政预算内收入 城乡居民储蓄年末余额 城市建区面积 城镇居民家庭人均可支配收入 客运总量 居民消费价格指数 居民生活用水 工业增加值 市区非农业人口 年末实有城市道路面积 年末金融机构存款余额 年末金融机构贷款余额 建成区绿化覆盖率 普通高校在校学生数 污水处理率 生活垃圾无害化处理率 研发经费总支出 社会消费品零售总额 科技活动人员数 第三产业占GDP的比重 第二产业占GDP的比重 货运总量 进出口总额 邮电业务总量
+2016-11-03 09:20:30,013 sd_em.py[line:59] INFO start sd_em
+2016-11-03 09:20:30,026 sd_em.py[line:63] INFO cleaned  area:南京市 厦门市 哈尔滨市 大连市 宁波市 广州市 成都市 杭州市 武汉市 沈阳市 济南市 深圳市 西安市 长春市 青岛市
+2016-11-03 09:20:30,026 sd_em.py[line:64] INFO selected indi:GDP增长率 专利申请数 人均公园绿地面积 人均地区生产总值 人均城市道路面积 全社会固定资产投资 公共图书馆数 地区生产总值 地方财政预算内支出 地方财政预算内收入 城乡居民储蓄年末余额 城市建区面积 城镇居民家庭人均可支配收入 客运总量 居民消费价格指数 居民生活用水 工业增加值 市区非农业人口 年末实有城市道路面积 年末金融机构存款余额 年末金融机构贷款余额 建成区绿化覆盖率 普通高校在校学生数 污水处理率 生活垃圾无害化处理率 研发经费总支出 社会消费品零售总额 科技活动人员数 第三产业占GDP的比重 第二产业占GDP的比重 货运总量 进出口总额 邮电业务总量
+2016-11-03 09:27:17,819 sd_em.py[line:59] INFO start sd_em
+2016-11-03 09:27:17,834 sd_em.py[line:63] INFO cleaned  area:南京市 厦门市 哈尔滨市 大连市 宁波市 广州市 成都市 杭州市 武汉市 沈阳市 济南市 深圳市 西安市 长春市 青岛市
+2016-11-03 09:27:17,834 sd_em.py[line:64] INFO selected indi:GDP增长率 专利申请数 人均公园绿地面积 人均地区生产总值 人均城市道路面积 全社会固定资产投资 公共图书馆数 地区生产总值 地方财政预算内支出 地方财政预算内收入 城乡居民储蓄年末余额 城市建区面积 城镇居民家庭人均可支配收入 客运总量 居民消费价格指数 居民生活用水 工业增加值 市区非农业人口 年末实有城市道路面积 年末金融机构存款余额 年末金融机构贷款余额 建成区绿化覆盖率 普通高校在校学生数 污水处理率 生活垃圾无害化处理率 研发经费总支出 社会消费品零售总额 科技活动人员数 第三产业占GDP的比重 第二产业占GDP的比重 货运总量 进出口总额 邮电业务总量
+2016-11-10 16:20:44,930 sd_em.py[line:59] INFO start sd_em
+2016-11-10 16:20:44,941 sd_em.py[line:63] INFO cleaned  area:南京市 厦门市 哈尔滨市 大连市 宁波市 广州市 成都市 杭州市 武汉市 沈阳市 济南市 深圳市 西安市 长春市 青岛市
+2016-11-10 16:20:44,943 sd_em.py[line:64] INFO selected indi:GDP增长率 专利申请数 人均公园绿地面积 人均地区生产总值 人均城市道路面积 全社会固定资产投资 公共图书馆数 地区生产总值 地方财政预算内支出 地方财政预算内收入 城乡居民储蓄年末余额 城市建区面积 城镇居民家庭人均可支配收入 客运总量 居民消费价格指数 居民生活用水 工业增加值 市区非农业人口 年末实有城市道路面积 年末金融机构存款余额 年末金融机构贷款余额 建成区绿化覆盖率 普通高校在校学生数 污水处理率 生活垃圾无害化处理率 研发经费总支出 社会消费品零售总额 科技活动人员数 第三产业占GDP的比重 第二产业占GDP的比重 货运总量 进出口总额 邮电业务总量
+2016-11-14 09:31:11,507 sd_em.py[line:59] INFO start sd_em
+2016-11-14 09:31:11,522 sd_em.py[line:63] INFO cleaned  area:南京市 厦门市 哈尔滨市 大连市 宁波市 广州市 成都市 杭州市 武汉市 沈阳市 济南市 深圳市 西安市 长春市 青岛市
+2016-11-14 09:31:11,522 sd_em.py[line:64] INFO selected indi:GDP增长率 专利申请数 人均公园绿地面积 人均地区生产总值 人均城市道路面积 全社会固定资产投资 公共图书馆数 地区生产总值 地方财政预算内支出 地方财政预算内收入 城乡居民储蓄年末余额 城市建区面积 城镇居民家庭人均可支配收入 客运总量 居民消费价格指数 居民生活用水 工业增加值 市区非农业人口 年末实有城市道路面积 年末金融机构存款余额 年末金融机构贷款余额 建成区绿化覆盖率 普通高校在校学生数 污水处理率 生活垃圾无害化处理率 研发经费总支出 社会消费品零售总额 科技活动人员数 第三产业占GDP的比重 第二产业占GDP的比重 货运总量 进出口总额 邮电业务总量
+2016-11-22 10:51:26,332 sd_em.py[line:59] INFO start sd_em
+2016-11-22 10:51:26,357 sd_em.py[line:63] INFO cleaned  area:中国 北京市 吉林省 广东省 福建省
+2016-11-22 10:51:26,358 sd_em.py[line:64] INFO selected indi:化学原料和化学制品制造业销售产值 电力、热力生产和供应业销售产值 石油加工、炼焦和核燃料加工业销售产值 非金属矿物制品业销售产值
+2016-11-22 11:41:53,785 sd_em.py[line:59] INFO start sd_em
+2016-11-22 11:41:53,798 sd_em.py[line:63] INFO cleaned  area:中国 北京市 吉林省 广东省 湖南省 福建省
+2016-11-22 11:41:53,798 sd_em.py[line:64] INFO selected indi:化学原料和化学制品制造业销售产值 有色金属冶炼及压延加工业销售产值 电力、热力生产和供应业销售产值 石油加工、炼焦和核燃料加工业销售产值 非金属矿物制品业销售产值 黑色金属冶炼及压延加工业销售产值
+2016-12-27 16:23:11,530 sd_em.py[line:59] INFO start sd_em
+2016-12-27 16:23:11,545 sd_em.py[line:63] INFO cleaned  area:南京市 厦门市 哈尔滨市 大连市 宁波市 广州市 成都市 杭州市 武汉市 沈阳市 济南市 深圳市 西安市 长春市 青岛市
+2016-12-27 16:23:11,545 sd_em.py[line:64] INFO selected indi:GDP增长率 专利申请数 人均公园绿地面积 人均地区生产总值 人均城市道路面积 全社会固定资产投资 公共图书馆数 地区生产总值 地方财政预算内支出 地方财政预算内收入 城乡居民储蓄年末余额 城市建区面积 城镇居民家庭人均可支配收入 客运总量 居民消费价格指数 居民生活用水 工业增加值 市区非农业人口 年末实有城市道路面积 年末金融机构存款余额 年末金融机构贷款余额 建成区绿化覆盖率 普通高校在校学生数 污水处理率 生活垃圾无害化处理率 研发经费总支出 社会消费品零售总额 科技活动人员数 第三产业占GDP的比重 第二产业占GDP的比重 货运总量 进出口总额 邮电业务总量
+2017-01-04 14:05:15,221 sd_em.py[line:59] INFO start sd_em
+2017-01-04 14:05:52,407 sd_em.py[line:59] INFO start sd_em
+2017-01-04 14:20:01,397 sd_em.py[line:59] INFO start sd_em
+2017-01-04 14:32:58,586 sd_em.py[line:59] INFO start sd_em
+2017-01-04 14:33:35,282 sd_em.py[line:59] INFO start sd_em
+2017-01-04 14:34:25,852 sd_em.py[line:59] INFO start sd_em
+2017-01-04 14:35:39,096 sd_em.py[line:59] INFO start sd_em
+2017-01-04 14:35:45,676 sd_em.py[line:59] INFO start sd_em
+2017-01-04 14:51:05,323 sd_em.py[line:59] INFO start sd_em
+2017-01-04 14:51:36,315 sd_em.py[line:59] INFO start sd_em
+2017-01-04 15:52:50,434 sd_em.py[line:59] INFO start sd_em
+2017-01-04 15:53:15,785 sd_em.py[line:59] INFO start sd_em
+2017-01-04 16:45:54,262 sd_em.py[line:59] INFO start sd_em
+2017-01-04 16:45:54,273 sd_em.py[line:63] INFO cleaned  area:北京市 呼和浩特市 天津市 太原市 石家庄市
+2017-01-04 16:45:54,273 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 空气质量达到及好于二级的天数 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-01-04 16:50:11,407 sd_em.py[line:59] INFO start sd_em
+2017-01-04 16:50:11,420 sd_em.py[line:63] INFO cleaned  area:上海市 乌鲁木齐市 兰州市 北京市 南京市 南宁市 南昌市 合肥市 呼和浩特市 哈尔滨市 天津市 太原市 广州市 成都市 拉萨市 昆明市 杭州市 武汉市 沈阳市 济南市 海口市 石家庄市 福州市 西宁市 西安市 贵阳市 郑州市 重庆市 银川市 长春市 长沙市
+2017-01-04 16:50:11,421 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 空气质量达到及好于二级的天数 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-01-04 16:58:02,473 sd_em.py[line:59] INFO start sd_em
+2017-01-04 16:58:02,486 sd_em.py[line:63] INFO cleaned  area:上海市 乌鲁木齐市 兰州市 北京市 南京市 南宁市 南昌市 合肥市 呼和浩特市 哈尔滨市 天津市 太原市 广州市 成都市 拉萨市 昆明市 杭州市 武汉市 沈阳市 济南市 海口市 石家庄市 福州市 西宁市 西安市 贵阳市 郑州市 重庆市 银川市 长春市 长沙市
+2017-01-04 16:58:02,487 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 空气质量达到及好于二级的天数 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-01-05 10:37:16,013 sd_em.py[line:59] INFO start sd_em
+2017-01-05 10:37:16,025 sd_em.py[line:63] INFO cleaned  area:北京市 呼和浩特市 天津市 太原市 石家庄市
+2017-01-05 10:37:16,026 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 空气质量达到及好于二级的天数 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-01-05 11:01:59,290 sd_em.py[line:59] INFO start sd_em
+2017-01-05 11:01:59,303 sd_em.py[line:63] INFO cleaned  area:上海市 乌鲁木齐市 兰州市 北京市 南京市 南宁市 南昌市 合肥市 呼和浩特市 哈尔滨市 天津市 太原市 广州市 成都市 拉萨市 昆明市 杭州市 武汉市 沈阳市 济南市 海口市 石家庄市 福州市 西宁市 西安市 贵阳市 郑州市 重庆市 银川市 长春市 长沙市
+2017-01-05 11:01:59,303 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 空气质量达到及好于二级的天数 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-01-05 11:03:10,586 sd_em.py[line:59] INFO start sd_em
+2017-01-05 11:03:10,599 sd_em.py[line:63] INFO cleaned  area:上海市 乌鲁木齐市 兰州市 北京市 南京市 南宁市 南昌市 合肥市 呼和浩特市 哈尔滨市 天津市 太原市 广州市 成都市 拉萨市 昆明市 杭州市 武汉市 沈阳市 济南市 海口市 石家庄市 福州市 西宁市 西安市 贵阳市 郑州市 重庆市 银川市 长春市 长沙市
+2017-01-05 11:03:10,601 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 空气质量达到及好于二级的天数 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-01-05 14:49:00,049 sd_em.py[line:59] INFO start sd_em
+2017-01-05 14:49:00,062 sd_em.py[line:63] INFO cleaned  area:上海市 乌鲁木齐市 兰州市 北京市 南京市 南宁市 南昌市 合肥市 呼和浩特市 哈尔滨市 天津市 太原市 广州市 成都市 拉萨市 昆明市 杭州市 武汉市 沈阳市 济南市 海口市 石家庄市 福州市 西宁市 西安市 贵阳市 郑州市 重庆市 银川市 长春市 长沙市
+2017-01-05 14:49:00,063 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 空气质量达到及好于二级的天数 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-01-05 15:32:06,944 sd_em.py[line:59] INFO start sd_em
+2017-01-05 15:32:06,957 sd_em.py[line:63] INFO cleaned  area:上海市 乌鲁木齐市 兰州市 北京市 南京市 南宁市 南昌市 合肥市 呼和浩特市 哈尔滨市 天津市 太原市 广州市 成都市 拉萨市 昆明市 杭州市 武汉市 沈阳市 济南市 海口市 石家庄市 福州市 西宁市 西安市 贵阳市 郑州市 重庆市 银川市 长春市 长沙市
+2017-01-05 15:32:06,957 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 空气质量达到及好于二级的天数 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-01-09 10:20:02,348 sd_em.py[line:59] INFO start sd_em
+2017-01-09 10:20:02,361 sd_em.py[line:63] INFO cleaned  area:上海市 乌鲁木齐市 兰州市 北京市 南京市 南宁市 南昌市 合肥市 呼和浩特市 哈尔滨市 天津市 太原市 广州市 成都市 拉萨市 昆明市 杭州市 武汉市 沈阳市 济南市 海口市 石家庄市 福州市 西宁市 西安市 贵阳市 郑州市 重庆市 银川市 长春市 长沙市
+2017-01-09 10:20:02,361 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-01-09 10:22:01,973 sd_em.py[line:59] INFO start sd_em
+2017-01-09 10:22:01,986 sd_em.py[line:63] INFO cleaned  area:上海市 乌鲁木齐市 兰州市 北京市 南京市 南宁市 南昌市 合肥市 呼和浩特市 哈尔滨市 天津市 太原市 广州市 成都市 拉萨市 昆明市 杭州市 武汉市 沈阳市 济南市 海口市 石家庄市 福州市 西宁市 西安市 贵阳市 郑州市 重庆市 银川市 长春市 长沙市
+2017-01-09 10:22:01,986 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 空气质量达到及好于二级的天数 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-01-09 11:12:48,292 sd_em.py[line:59] INFO start sd_em
+2017-01-09 11:12:48,305 sd_em.py[line:63] INFO cleaned  area:上海市 乌鲁木齐市 兰州市 北京市 南京市 南宁市 南昌市 合肥市 呼和浩特市 哈尔滨市 天津市 太原市 广州市 成都市 拉萨市 昆明市 杭州市 武汉市 沈阳市 济南市 海口市 石家庄市 福州市 西宁市 西安市 贵阳市 郑州市 重庆市 银川市 长春市 长沙市
+2017-01-09 11:12:48,305 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 空气质量达到及好于二级的天数 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-01-09 11:24:12,088 sd_em.py[line:59] INFO start sd_em
+2017-01-09 11:24:12,101 sd_em.py[line:63] INFO cleaned  area:上海市 乌鲁木齐市 兰州市 北京市 南京市 南宁市 南昌市 合肥市 呼和浩特市 哈尔滨市 天津市 太原市 广州市 成都市 拉萨市 昆明市 杭州市 武汉市 沈阳市 济南市 海口市 石家庄市 福州市 西宁市 西安市 贵阳市 郑州市 重庆市 银川市 长春市 长沙市
+2017-01-09 11:24:12,101 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-01-15 12:09:06,029 sd_em.py[line:59] INFO start sd_em
+2017-01-15 12:09:06,042 sd_em.py[line:63] INFO cleaned  area:上海市 乌鲁木齐市 兰州市 北京市 南京市 南宁市 南昌市 合肥市 呼和浩特市 哈尔滨市 天津市 太原市 广州市 成都市 拉萨市 昆明市 杭州市 武汉市 沈阳市 济南市 海口市 石家庄市 福州市 西宁市 西安市 贵阳市 郑州市 重庆市 银川市 长春市 长沙市
+2017-01-15 12:09:06,042 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 空气质量达到及好于二级的天数 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-02-07 10:01:05,941 sd_em.py[line:59] INFO start sd_em
+2017-02-07 10:01:05,957 sd_em.py[line:63] INFO cleaned  area:上海市 乌鲁木齐市 兰州市 北京市 南京市 南宁市 南昌市 合肥市 呼和浩特市 哈尔滨市 天津市 太原市 广州市 成都市 拉萨市 昆明市 杭州市 武汉市 沈阳市 济南市 海口市 石家庄市 福州市 西宁市 西安市 贵阳市 郑州市 重庆市 银川市 长春市 长沙市
+2017-02-07 10:01:05,957 sd_em.py[line:64] INFO selected indi:一氧化碳日均值第95百分位浓度 二氧化氮年平均浓度 二氧化硫年平均浓度 可吸入颗粒物（PM10）年平均浓度 空气质量达到及好于二级的天数 细颗粒物（PM2.5）年平均浓度 臭氧（O3）日最大8小时第90百分位浓度
+2017-02-15 09:41:11,523 sd_em.py[line:59] INFO start sd_em
+2017-02-15 09:41:11,538 sd_em.py[line:63] INFO cleaned  area:南京市 厦门市 哈尔滨市 大连市 宁波市 广州市 成都市 杭州市 武汉市 沈阳市 济南市 深圳市 西安市 长春市 青岛市
+2017-02-15 09:41:11,539 sd_em.py[line:64] INFO selected indi:GDP增长率 专利申请数 人均公园绿地面积 人均地区生产总值 人均城市道路面积 全社会固定资产投资 公共图书馆数 地区生产总值 地方财政预算内支出 地方财政预算内收入 城乡居民储蓄年末余额 城市建区面积 城镇居民家庭人均可支配收入 客运总量 居民消费价格指数 居民生活用水 工业增加值 市区非农业人口 年末实有城市道路面积 年末金融机构存款余额 年末金融机构贷款余额 建成区绿化覆盖率 普通高校在校学生数 污水处理率 生活垃圾无害化处理率 研发经费总支出 社会消费品零售总额 科技活动人员数 第三产业占GDP的比重 第二产业占GDP的比重 货运总量 进出口总额 邮电业务总量
+2017-03-15 11:41:08,894 sd_em.py[line:59] INFO start sd_em
+2017-03-15 11:41:08,970 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2017-03-15 11:41:08,970 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2017-03-15 11:41:18,858 sd_em.py[line:59] INFO start sd_em
+2017-03-15 11:41:18,871 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2017-03-15 11:41:18,871 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2017-03-15 11:41:24,895 sd_em.py[line:59] INFO start sd_em
+2017-03-15 11:41:24,907 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2017-03-15 11:41:24,907 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2017-03-15 11:41:29,894 sd_em.py[line:59] INFO start sd_em
+2017-03-15 11:41:29,904 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2017-03-15 11:41:29,904 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2017-03-15 11:41:39,750 sd_em.py[line:59] INFO start sd_em
+2017-03-15 11:41:39,762 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2017-03-15 11:41:39,762 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2017-03-15 11:41:57,753 sd_em.py[line:59] INFO start sd_em
+2017-03-15 11:41:57,765 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2017-03-15 11:41:57,765 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2017-03-15 11:48:41,453 sd_em.py[line:59] INFO start sd_em
+2017-03-15 11:48:41,464 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2017-03-15 11:48:41,464 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2017-03-15 11:48:49,940 sd_em.py[line:59] INFO start sd_em
+2017-03-15 11:48:49,951 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2017-03-15 11:48:49,951 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2017-03-15 11:49:54,036 sd_em.py[line:59] INFO start sd_em
+2017-03-15 11:49:54,052 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2017-03-15 11:49:54,052 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2017-03-15 11:51:42,765 sd_em.py[line:59] INFO start sd_em
+2017-03-15 11:51:42,776 sd_em.py[line:63] INFO cleaned  area:中国 北京市
+2017-03-15 11:51:42,776 sd_em.py[line:64] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP指数
+2017-03-17 13:13:27,493 sd_em.py[line:59] INFO start sd_em
+2017-03-17 13:13:27,505 sd_em.py[line:63] INFO cleaned  area:北京市 天津市 山西省 河北省
+2017-03-17 13:13:27,505 sd_em.py[line:64] INFO selected indi:GDP GDP指数 人均GDP增长率 第一产业增加值 第二产业占GDP比重
+2017-03-17 13:21:34,101 sd_em.py[line:59] INFO start sd_em
+2017-03-17 13:21:34,112 sd_em.py[line:63] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2017-03-17 13:21:34,114 sd_em.py[line:64] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值

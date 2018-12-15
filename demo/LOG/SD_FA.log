@@ -1,0 +1,443 @@
+2015-12-10 10:43:13,608 sd_fa.py[line:78] INFO start sd_fa
+2015-12-11 10:24:40,298 sd_fa.py[line:78] INFO start sd_fa
+2015-12-11 10:24:40,339 sd_fa.py[line:66] INFO selected area:北京市 天津市 山西省 河北省
+2015-12-11 10:24:40,340 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 山西省 河北省
+2015-12-11 10:24:40,341 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2015-12-11 10:24:41,693 sd_fa.py[line:78] INFO start sd_fa
+2015-12-11 10:24:41,728 sd_fa.py[line:66] INFO selected area:北京市 天津市 山西省 河北省
+2015-12-11 10:24:41,729 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 山西省 河北省
+2015-12-11 10:24:41,732 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2015-12-11 14:24:32,946 sd_fa.py[line:78] INFO start sd_fa
+2015-12-24 15:55:47,754 sd_fa.py[line:78] INFO start sd_fa
+2016-01-06 13:53:40,109 sd_fa.py[line:78] INFO start sd_fa
+2016-01-06 13:53:40,124 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-01-06 13:53:40,124 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-01-06 13:53:40,124 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-01-06 15:07:28,352 sd_fa.py[line:78] INFO start sd_fa
+2016-01-06 15:07:28,364 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-01-06 15:07:28,364 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-01-06 15:07:28,364 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-01-06 15:09:28,010 sd_fa.py[line:78] INFO start sd_fa
+2016-01-06 15:09:28,026 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-01-06 15:09:28,026 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-01-06 15:09:28,026 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-01-06 15:10:58,987 sd_fa.py[line:78] INFO start sd_fa
+2016-01-06 15:10:59,000 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-01-06 15:10:59,000 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-01-06 15:10:59,000 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-03 11:21:29,763 sd_fa.py[line:78] INFO start sd_fa
+2016-05-03 11:21:29,779 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:21:29,779 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:21:29,779 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-03 11:21:45,244 sd_fa.py[line:78] INFO start sd_fa
+2016-05-03 11:21:45,257 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:21:45,257 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:21:45,257 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-03 11:22:09,375 sd_fa.py[line:78] INFO start sd_fa
+2016-05-03 11:22:09,385 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:22:09,387 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:22:09,387 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-03 11:23:22,545 sd_fa.py[line:78] INFO start sd_fa
+2016-05-03 11:23:22,555 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:23:22,556 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:23:22,556 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-03 11:25:18,523 sd_fa.py[line:78] INFO start sd_fa
+2016-05-03 11:25:18,536 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:25:18,536 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:25:18,536 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-03 11:25:37,979 sd_fa.py[line:78] INFO start sd_fa
+2016-05-03 11:25:37,990 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:25:37,990 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:25:37,990 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-03 11:30:00,253 sd_fa.py[line:78] INFO start sd_fa
+2016-05-03 11:30:00,263 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:30:00,265 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-03 11:30:00,265 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-04 11:18:47,147 sd_fa.py[line:78] INFO start sd_fa
+2016-05-04 11:18:47,158 sd_fa.py[line:66] INFO selected area:北京市 天津市 山西省 河北省
+2016-05-04 11:18:47,158 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 山西省 河北省
+2016-05-04 11:18:47,158 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-04 11:23:06,632 sd_fa.py[line:78] INFO start sd_fa
+2016-05-04 11:23:06,640 sd_fa.py[line:66] INFO selected area:北京市 天津市 山西省 河北省
+2016-05-04 11:23:06,641 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 山西省 河北省
+2016-05-04 11:23:06,641 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-04 14:45:19,739 sd_fa.py[line:78] INFO start sd_fa
+2016-05-04 14:45:19,750 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-04 14:45:19,750 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-04 14:45:19,752 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-04 16:50:11,990 sd_fa.py[line:78] INFO start sd_fa
+2016-05-04 16:50:12,000 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-04 16:50:12,002 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-04 16:50:12,002 sd_fa.py[line:71] INFO selected indi:产品质量一等品率 产品质量优等品率 产品质量合格品率 产品质量损失率
+2016-05-05 14:54:19,323 sd_fa.py[line:78] INFO start sd_fa
+2016-05-05 14:54:19,335 sd_fa.py[line:66] INFO selected area:中国 北京市
+2016-05-05 14:54:19,335 sd_fa.py[line:67] INFO cleaned  area:中国 北京市
+2016-05-05 14:54:19,336 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP
+2016-05-05 14:54:49,808 sd_fa.py[line:78] INFO start sd_fa
+2016-05-05 14:54:49,819 sd_fa.py[line:66] INFO selected area:中国 北京市
+2016-05-05 14:54:49,819 sd_fa.py[line:67] INFO cleaned  area:中国 北京市
+2016-05-05 14:54:49,819 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP
+2016-05-05 14:55:01,523 sd_fa.py[line:78] INFO start sd_fa
+2016-05-05 14:55:01,536 sd_fa.py[line:66] INFO selected area:中国 北京市 天津市
+2016-05-05 14:55:01,536 sd_fa.py[line:67] INFO cleaned  area:中国 北京市 天津市
+2016-05-05 14:55:01,536 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP
+2016-05-05 14:55:55,244 sd_fa.py[line:78] INFO start sd_fa
+2016-05-05 14:55:55,256 sd_fa.py[line:66] INFO selected area:中国 北京市 天津市
+2016-05-05 14:55:55,256 sd_fa.py[line:67] INFO cleaned  area:中国 北京市 天津市
+2016-05-05 14:55:55,256 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP
+2016-05-05 14:56:36,430 sd_fa.py[line:78] INFO start sd_fa
+2016-05-05 14:56:36,443 sd_fa.py[line:66] INFO selected area:北京市 天津市
+2016-05-05 14:56:36,443 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市
+2016-05-05 14:56:36,443 sd_fa.py[line:71] INFO selected indi:GDP指数 人均GDP增长率
+2016-05-05 14:57:09,569 sd_fa.py[line:78] INFO start sd_fa
+2016-05-05 14:57:09,582 sd_fa.py[line:66] INFO selected area:上海市 内蒙古 北京市 吉林省 天津市 安徽省 山西省 江苏省 河北省 浙江省 辽宁省 黑龙江
+2016-05-05 14:57:09,582 sd_fa.py[line:67] INFO cleaned  area:上海市 内蒙古 北京市 吉林省 天津市 安徽省 山西省 江苏省 河北省 浙江省 辽宁省 黑龙江
+2016-05-05 14:57:09,582 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率 人均GDP指数 第一产业增加值 第三产业增加值 第三产业增加值指数 第二产业占GDP比重 第二产业增加值
+2016-05-11 08:33:42,437 sd_fa.py[line:78] INFO start sd_fa
+2016-05-11 08:33:42,450 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-11 08:33:42,450 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-11 08:33:42,451 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-13 11:02:20,444 sd_fa.py[line:78] INFO start sd_fa
+2016-05-13 11:02:20,456 sd_fa.py[line:66] INFO selected area:中国 内蒙古 天津市 山西省 河北省
+2016-05-13 11:02:20,457 sd_fa.py[line:67] INFO cleaned  area:中国 内蒙古 天津市 山西省 河北省
+2016-05-13 11:02:20,457 sd_fa.py[line:71] INFO selected indi:GDP GDP指数
+2016-05-13 13:15:52,895 sd_fa.py[line:78] INFO start sd_fa
+2016-05-13 13:15:52,907 sd_fa.py[line:66] INFO selected area:中国 内蒙古 天津市 山西省 江苏省 河北省
+2016-05-13 13:15:52,907 sd_fa.py[line:67] INFO cleaned  area:中国 内蒙古 天津市 山西省 江苏省 河北省
+2016-05-13 13:15:52,907 sd_fa.py[line:71] INFO selected indi:第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-13 13:52:48,871 sd_fa.py[line:78] INFO start sd_fa
+2016-05-13 13:52:48,881 sd_fa.py[line:66] INFO selected area:中国 内蒙古 山西省 江苏省 河北省
+2016-05-13 13:52:48,882 sd_fa.py[line:67] INFO cleaned  area:中国 内蒙古 山西省 江苏省 河北省
+2016-05-13 13:52:48,882 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP
+2016-05-23 10:24:02,109 sd_fa.py[line:78] INFO start sd_fa
+2016-05-23 10:24:02,121 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-23 10:24:02,121 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-23 10:24:02,122 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-23 10:24:28,194 sd_fa.py[line:78] INFO start sd_fa
+2016-05-23 10:24:28,204 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-23 10:24:28,206 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-05-23 10:24:28,206 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-05-23 11:28:17,260 sd_fa.py[line:78] INFO start sd_fa
+2016-05-23 11:28:17,272 sd_fa.py[line:66] INFO selected area:中国 北京市 天津市
+2016-05-23 11:28:17,273 sd_fa.py[line:67] INFO cleaned  area:中国 北京市 天津市
+2016-05-23 11:28:17,273 sd_fa.py[line:71] INFO selected indi:GDP GDP指数
+2016-05-23 11:29:02,924 sd_fa.py[line:78] INFO start sd_fa
+2016-05-23 11:29:02,937 sd_fa.py[line:66] INFO selected area:上海市 中国 北京市 天津市 安徽省 山东省 江苏省 江西省 河南省 浙江省 湖北省 福建省
+2016-05-23 11:29:02,937 sd_fa.py[line:67] INFO cleaned  area:上海市 中国 北京市 天津市 安徽省 山东省 江苏省 江西省 河南省 浙江省 湖北省 福建省
+2016-05-23 11:29:02,937 sd_fa.py[line:71] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP增长率 人均GDP指数 第一产业增加值 第一产业增加值指数 第三产业占GDP的比重 第三产业增加值 第三产业增加值指数 第二产业占GDP比重 第二产业增加值 第二产业增加值指数
+2016-05-23 11:38:23,444 sd_fa.py[line:78] INFO start sd_fa
+2016-05-23 11:38:23,457 sd_fa.py[line:66] INFO selected area:北京市 天津市 河北省
+2016-05-23 11:38:23,457 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 河北省
+2016-05-23 11:38:23,457 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-05-23 11:40:43,101 sd_fa.py[line:78] INFO start sd_fa
+2016-05-23 11:40:43,112 sd_fa.py[line:66] INFO selected area:北京市 天津市 河北省
+2016-05-23 11:40:43,114 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 河北省
+2016-05-23 11:40:43,114 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-05-23 11:41:50,509 sd_fa.py[line:78] INFO start sd_fa
+2016-05-23 11:41:50,522 sd_fa.py[line:66] INFO selected area:北京市 天津市 河北省
+2016-05-23 11:41:50,522 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 河北省
+2016-05-23 11:41:50,522 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP 人均GDP增长率
+2016-05-25 09:11:10,023 sd_fa.py[line:78] INFO start sd_fa
+2016-05-25 09:11:10,035 sd_fa.py[line:66] INFO selected area:中国 北京市 天津市
+2016-05-25 09:11:10,036 sd_fa.py[line:67] INFO cleaned  area:中国 北京市 天津市
+2016-05-25 09:11:10,036 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP
+2016-06-06 09:24:09,565 sd_fa.py[line:78] INFO start sd_fa
+2016-06-06 09:24:09,582 sd_fa.py[line:66] INFO selected area:北京市 天津市 河北省
+2016-06-06 09:24:09,582 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 河北省
+2016-06-06 09:24:09,582 sd_fa.py[line:71] INFO selected indi:GDP GDP指数
+2016-06-07 11:28:01,290 sd_fa.py[line:78] INFO start sd_fa
+2016-06-07 11:28:01,302 sd_fa.py[line:66] INFO selected area:中国 北京市
+2016-06-07 11:28:01,302 sd_fa.py[line:67] INFO cleaned  area:中国 北京市
+2016-06-07 11:28:01,303 sd_fa.py[line:71] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP
+2016-06-15 15:29:55,354 sd_fa.py[line:78] INFO start sd_fa
+2016-06-15 15:29:55,365 sd_fa.py[line:66] INFO selected area:北京市 天津市 山西省 河北省
+2016-06-15 15:29:55,365 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 山西省 河北省
+2016-06-15 15:29:55,367 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-06-15 15:30:19,154 sd_fa.py[line:78] INFO start sd_fa
+2016-06-15 15:30:19,165 sd_fa.py[line:66] INFO selected area:北京市 天津市 山西省 河北省
+2016-06-15 15:30:19,165 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 山西省 河北省
+2016-06-15 15:30:19,167 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-06-15 17:25:35,551 sd_fa.py[line:78] INFO start sd_fa
+2016-06-15 17:25:35,563 sd_fa.py[line:66] INFO selected area:北京市 天津市
+2016-06-15 17:25:35,563 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市
+2016-06-15 17:25:35,563 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 第一产业增加值 第三产业增加值 第二产业增加值
+2016-06-15 17:26:33,571 sd_fa.py[line:78] INFO start sd_fa
+2016-06-15 17:26:33,582 sd_fa.py[line:66] INFO selected area:北京市 天津市
+2016-06-15 17:26:33,582 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市
+2016-06-15 17:26:33,582 sd_fa.py[line:71] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP增长率 人均GDP指数 第一产业增加值 第三产业增加值 第二产业增加值
+2016-06-15 17:27:29,667 sd_fa.py[line:78] INFO start sd_fa
+2016-06-15 17:27:29,677 sd_fa.py[line:66] INFO selected area:北京市 天津市
+2016-06-15 17:27:29,678 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市
+2016-06-15 17:27:29,678 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率 第一产业增加值 第三产业增加值 第二产业增加值
+2016-06-15 17:28:27,313 sd_fa.py[line:78] INFO start sd_fa
+2016-06-15 17:28:27,326 sd_fa.py[line:66] INFO selected area:北京市 天津市
+2016-06-15 17:28:27,326 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市
+2016-06-15 17:28:27,326 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率 第一产业增加值 第三产业增加值 第二产业增加值
+2016-06-15 17:33:48,359 sd_fa.py[line:78] INFO start sd_fa
+2016-06-15 17:33:48,371 sd_fa.py[line:66] INFO selected area:北京市 天津市
+2016-06-15 17:33:48,371 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市
+2016-06-15 17:33:48,371 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP 第一产业增加值 第三产业增加值 第二产业占GDP比重
+2016-06-16 08:43:42,421 sd_fa.py[line:78] INFO start sd_fa
+2016-06-16 08:43:42,434 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-06-16 08:43:42,434 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-06-16 08:43:42,434 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率 出生人口数 死亡人口数
+2016-06-16 08:44:05,737 sd_fa.py[line:78] INFO start sd_fa
+2016-06-16 08:44:05,750 sd_fa.py[line:66] INFO selected area:北京市 天津市
+2016-06-16 08:44:05,750 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市
+2016-06-16 08:44:05,750 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率 出生人口数 死亡人口数
+2016-06-16 08:44:30,910 sd_fa.py[line:78] INFO start sd_fa
+2016-06-16 08:44:30,921 sd_fa.py[line:66] INFO selected area:北京市 天津市
+2016-06-16 08:44:30,921 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市
+2016-06-16 08:44:30,921 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率 出生人口数 死亡人口数
+2016-06-16 08:44:42,246 sd_fa.py[line:78] INFO start sd_fa
+2016-06-16 08:44:42,257 sd_fa.py[line:66] INFO selected area:北京市 天津市
+2016-06-16 08:44:42,257 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市
+2016-06-16 08:44:42,259 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率 出生人口数 死亡人口数
+2016-06-16 08:46:42,096 sd_fa.py[line:78] INFO start sd_fa
+2016-06-16 08:46:42,108 sd_fa.py[line:66] INFO selected area:北京市 天津市
+2016-06-16 08:46:42,109 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市
+2016-06-16 08:46:42,109 sd_fa.py[line:71] INFO selected indi:GDP GDP指数 人均GDP 第一产业增加值 第一产业增加值指数 第三产业增加值 第三产业增加值指数 第二产业占GDP比重 第二产业增加值
+2016-06-16 08:54:04,200 sd_fa.py[line:78] INFO start sd_fa
+2016-06-16 08:54:04,211 sd_fa.py[line:66] INFO selected area:中国 北京市
+2016-06-16 08:54:04,213 sd_fa.py[line:67] INFO cleaned  area:中国 北京市
+2016-06-16 08:54:04,213 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率 出生人口数 死亡人口数
+2016-06-16 08:54:30,463 sd_fa.py[line:78] INFO start sd_fa
+2016-06-16 08:54:30,474 sd_fa.py[line:66] INFO selected area:中国 北京市 天津市 河北省
+2016-06-16 08:54:30,476 sd_fa.py[line:67] INFO cleaned  area:中国 北京市 天津市 河北省
+2016-06-16 08:54:30,476 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率
+2016-06-16 08:58:56,910 sd_fa.py[line:78] INFO start sd_fa
+2016-06-16 08:58:56,921 sd_fa.py[line:66] INFO selected area:北京市 天津市 河北省
+2016-06-16 08:58:56,921 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 河北省
+2016-06-16 08:58:56,921 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率 出生人口数 死亡人口数
+2016-06-16 08:59:22,681 sd_fa.py[line:78] INFO start sd_fa
+2016-06-16 08:59:22,694 sd_fa.py[line:66] INFO selected area:北京市 天津市 河北省
+2016-06-16 08:59:22,694 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 河北省
+2016-06-16 08:59:22,694 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率
+2016-06-16 09:00:26,898 sd_fa.py[line:78] INFO start sd_fa
+2016-06-16 09:00:26,911 sd_fa.py[line:66] INFO selected area:北京市 天津市 河北省
+2016-06-16 09:00:26,911 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 河北省
+2016-06-16 09:00:26,911 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率
+2016-06-16 09:02:50,456 sd_fa.py[line:78] INFO start sd_fa
+2016-06-16 09:02:50,467 sd_fa.py[line:66] INFO selected area:中国 北京市 河北省
+2016-06-16 09:02:50,467 sd_fa.py[line:67] INFO cleaned  area:中国 北京市 河北省
+2016-06-16 09:02:50,469 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率 出生人口数 死亡人口数
+2016-07-01 14:57:26,404 sd_fa.py[line:78] INFO start sd_fa
+2016-07-01 14:57:26,414 sd_fa.py[line:66] INFO selected area:中国 北京市 天津市 山西省 河北省
+2016-07-01 14:57:26,415 sd_fa.py[line:67] INFO cleaned  area:中国 北京市 天津市 山西省 河北省
+2016-07-01 14:57:26,415 sd_fa.py[line:71] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP增长率 人均GDP指数
+2016-07-01 14:57:36,934 sd_fa.py[line:78] INFO start sd_fa
+2016-07-01 14:57:36,946 sd_fa.py[line:66] INFO selected area:中国 北京市 天津市 山西省 河北省
+2016-07-01 14:57:36,947 sd_fa.py[line:67] INFO cleaned  area:中国 北京市 天津市 山西省 河北省
+2016-07-01 14:57:36,947 sd_fa.py[line:71] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP增长率 人均GDP指数
+2016-07-01 15:00:49,160 sd_fa.py[line:78] INFO start sd_fa
+2016-07-01 15:00:49,171 sd_fa.py[line:66] INFO selected area:上海市 中国 北京市 吉林省 天津市 安徽省 山西省 江苏省 河北省 浙江省 辽宁省 黑龙江
+2016-07-01 15:00:49,171 sd_fa.py[line:67] INFO cleaned  area:上海市 中国 北京市 吉林省 天津市 安徽省 山西省 江苏省 河北省 浙江省 辽宁省 黑龙江
+2016-07-01 15:00:49,171 sd_fa.py[line:71] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP增长率 人均GDP指数 第一产业增加值 第三产业增加值 第三产业增加值指数 第二产业占GDP比重 第二产业增加值 第二产业增加值指数
+2016-07-01 15:13:12,875 sd_fa.py[line:78] INFO start sd_fa
+2016-07-01 15:13:12,885 sd_fa.py[line:66] INFO selected area:中国 天津市 河北省
+2016-07-01 15:13:12,885 sd_fa.py[line:67] INFO cleaned  area:中国 天津市 河北省
+2016-07-01 15:13:12,885 sd_fa.py[line:71] INFO selected indi:人均GDP 人均GDP指数 第二产业增加值
+2016-07-01 15:13:34,773 sd_fa.py[line:78] INFO start sd_fa
+2016-07-01 15:13:34,785 sd_fa.py[line:66] INFO selected area:中国 天津市 河北省
+2016-07-01 15:13:34,786 sd_fa.py[line:67] INFO cleaned  area:中国 天津市 河北省
+2016-07-01 15:13:34,786 sd_fa.py[line:71] INFO selected indi:人均GDP 人均GDP指数 第二产业增加值
+2016-07-22 16:20:29,006 sd_fa.py[line:78] INFO start sd_fa
+2016-07-22 16:20:29,032 sd_fa.py[line:66] INFO selected area:上海市 中国 北京市 吉林省 天津市 山西省 江苏省 河北省 黑龙江
+2016-07-22 16:20:29,032 sd_fa.py[line:67] INFO cleaned  area:上海市 中国 北京市 吉林省 天津市 山西省 江苏省 河北省 黑龙江
+2016-07-22 16:20:29,032 sd_fa.py[line:71] INFO selected indi:GDP GDP增长率 GDP指数 人均GDP 人均GDP增长率 人均GDP指数 第一产业增加值 第三产业增加值 第二产业增加值
+2016-07-26 11:37:35,338 sd_fa.py[line:78] INFO start sd_fa
+2016-07-26 11:37:35,349 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-07-26 11:37:35,351 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-07-26 11:37:35,351 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值
+2016-08-04 13:57:07,450 sd_fa.py[line:78] INFO start sd_fa
+2016-08-04 13:57:07,467 sd_fa.py[line:66] INFO selected area:中国 北京市 吉林省 广东省
+2016-08-04 13:57:07,467 sd_fa.py[line:67] INFO cleaned  area:中国 北京市 吉林省 广东省
+2016-08-04 13:57:07,467 sd_fa.py[line:71] INFO selected indi:农、林、牧、渔业增加值 农业增加值 牧业增加值
+2016-08-04 15:42:12,773 sd_fa.py[line:78] INFO start sd_fa
+2016-08-04 15:42:12,786 sd_fa.py[line:66] INFO selected area:中国 安徽省 湖南省
+2016-08-04 15:42:12,786 sd_fa.py[line:67] INFO cleaned  area:中国 安徽省 湖南省
+2016-08-04 15:42:12,786 sd_fa.py[line:71] INFO selected indi:农业总产值 林业产值 牧业产值
+2016-08-04 16:06:19,694 sd_fa.py[line:78] INFO start sd_fa
+2016-08-04 16:06:19,707 sd_fa.py[line:66] INFO selected area:中国 北京市 吉林省 辽宁省
+2016-08-04 16:06:19,707 sd_fa.py[line:67] INFO cleaned  area:中国 北京市 吉林省 辽宁省
+2016-08-04 16:06:19,707 sd_fa.py[line:71] INFO selected indi:GDP GDP增长率 县个数 第二产业增加值
+2016-09-12 11:47:02,028 sd_fa.py[line:78] INFO start sd_fa
+2016-09-12 11:47:02,039 sd_fa.py[line:66] INFO selected area:中国 广东省 江西省 黑龙江
+2016-09-12 11:47:02,039 sd_fa.py[line:67] INFO cleaned  area:中国 广东省 江西省 黑龙江
+2016-09-12 11:47:02,040 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率
+2016-09-12 11:51:10,207 sd_fa.py[line:78] INFO start sd_fa
+2016-09-12 11:51:10,219 sd_fa.py[line:66] INFO selected area:中国 广东省 江西省 黑龙江
+2016-09-12 11:51:10,220 sd_fa.py[line:67] INFO cleaned  area:中国 广东省 江西省 黑龙江
+2016-09-12 11:51:10,220 sd_fa.py[line:71] INFO selected indi:人口出生率 人口死亡率
+2016-09-29 13:08:13,187 sd_fa.py[line:78] INFO start sd_fa
+2016-09-29 13:08:13,196 sd_fa.py[line:66] INFO selected area:中国 北京市
+2016-09-29 13:08:13,196 sd_fa.py[line:67] INFO cleaned  area:中国 北京市
+2016-09-29 13:08:13,196 sd_fa.py[line:71] INFO selected indi:城乡结合区学前教育离园(班)人数 城区学前教育入园(班)人数 城区学前教育在园(班)人数 城区学前教育离园(班)人数
+2016-11-22 11:43:58,971 sd_fa.py[line:78] INFO start sd_fa
+2016-11-22 11:43:59,002 sd_fa.py[line:66] INFO selected area:北京市 天津市 山西省 河北省
+2016-11-22 11:43:59,002 sd_fa.py[line:67] INFO cleaned  area:北京市 天津市 山西省 河北省
+2016-11-22 11:43:59,003 sd_fa.py[line:71] INFO selected indi:GDP 工业用水总量 铁路客运量
+2016-11-23 11:14:40,576 sd_fa.py[line:78] INFO start sd_fa
+2016-11-23 11:14:40,588 sd_fa.py[line:66] INFO selected area:中国 北京市 天津市
+2016-11-23 11:14:40,589 sd_fa.py[line:67] INFO cleaned  area:中国 北京市 天津市
+2016-11-23 11:14:40,589 sd_fa.py[line:71] INFO selected indi:化学原料和化学制品制造业销售产值 电力、热力生产和供应业销售产值
+2016-11-24 09:31:00,209 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 09:31:00,220 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:31:00,220 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:31:00,221 sd_fa.py[line:71] INFO selected indi:公共图书馆数 农业机械总动力 农作物受灾面积 农村农户固定资产投资额 货运量 邮电业务总量
+2016-11-24 09:31:58,716 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 09:31:58,727 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:31:58,727 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:31:58,727 sd_fa.py[line:71] INFO selected indi:公共图书馆数 农业机械总动力 农作物受灾面积 农村农户固定资产投资额 货运量 邮电业务总量
+2016-11-24 09:41:55,039 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 09:41:55,051 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:41:55,052 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:41:55,052 sd_fa.py[line:71] INFO selected indi:互联网上网人数 公共图书馆数 农业机械总动力 农作物受灾面积 货运量 邮电业务总量
+2016-11-24 09:42:24,575 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 09:42:24,588 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:42:24,588 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:42:24,588 sd_fa.py[line:71] INFO selected indi:互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 受灾面积 生活污水排放量 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-24 09:43:37,220 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 09:43:37,232 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:43:37,233 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:43:37,233 sd_fa.py[line:71] INFO selected indi:互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 受灾面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-24 09:43:59,793 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 09:43:59,805 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:43:59,805 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:43:59,806 sd_fa.py[line:71] INFO selected indi:互联网上网人数 人口性别比 公共图书馆数 农业机械总动力 农作物受灾面积 农用化肥施用量 货运量 邮电业务总量
+2016-11-24 09:44:18,500 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 09:44:18,513 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:44:18,513 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:44:18,513 sd_fa.py[line:71] INFO selected indi:互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 受灾面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-24 09:44:46,618 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 09:44:46,631 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:44:46,631 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:44:46,631 sd_fa.py[line:71] INFO selected indi:互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 受灾面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-24 09:47:23,944 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 09:47:23,957 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:47:23,957 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:47:23,957 sd_fa.py[line:71] INFO selected indi:互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 受灾面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-24 09:47:43,559 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 09:47:43,572 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:47:43,572 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 09:47:43,572 sd_fa.py[line:71] INFO selected indi:互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 受灾面积 生活污水排放量 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-24 16:11:35,644 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 16:11:35,655 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 16:11:35,655 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 16:11:35,657 sd_fa.py[line:71] INFO selected indi:乡村办水电站装机容量 互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 生活污水排放量 耕地面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-24 16:12:48,184 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 16:12:48,197 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 16:12:48,197 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 16:12:48,197 sd_fa.py[line:71] INFO selected indi:乡村办水电站装机容量 互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 耕地面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-24 16:14:04,822 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 16:14:04,835 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 16:14:04,836 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 16:14:04,836 sd_fa.py[line:71] INFO selected indi:乡村办水电站装机容量 互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 耕地面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-24 16:18:50,986 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 16:18:51,000 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 16:18:51,000 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 16:18:51,000 sd_fa.py[line:71] INFO selected indi:乡村办水电站装机容量 互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 耕地面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-24 16:31:43,243 sd_fa.py[line:78] INFO start sd_fa
+2016-11-24 16:31:43,259 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 16:31:43,259 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-24 16:31:43,259 sd_fa.py[line:71] INFO selected indi:乡村办水电站装机容量 互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 耕地面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-25 11:04:35,398 sd_fa.py[line:78] INFO start sd_fa
+2016-11-25 11:04:35,410 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-25 11:04:35,411 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-25 11:04:35,411 sd_fa.py[line:71] INFO selected indi:乡村办水电站装机容量 互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 耕地面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-25 14:48:33,109 sd_fa.py[line:78] INFO start sd_fa
+2016-11-25 14:48:33,121 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-25 14:48:33,121 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-25 14:48:33,122 sd_fa.py[line:71] INFO selected indi:乡村办水电站装机容量 互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 耕地面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-25 15:18:49,380 sd_fa.py[line:78] INFO start sd_fa
+2016-11-25 15:18:49,391 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-25 15:18:49,391 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-25 15:18:49,392 sd_fa.py[line:71] INFO selected indi:乡村办水电站装机容量 互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 耕地面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-25 16:23:23,072 sd_fa.py[line:78] INFO start sd_fa
+2016-11-25 16:23:23,085 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-25 16:23:23,085 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-25 16:23:23,085 sd_fa.py[line:71] INFO selected indi:乡村办水电站装机容量 互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 耕地面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-11-30 13:57:55,789 sd_fa.py[line:78] INFO start sd_fa
+2016-11-30 13:57:55,801 sd_fa.py[line:66] INFO selected area:中国 内蒙古 北京市 天津市 山西省
+2016-11-30 13:57:55,801 sd_fa.py[line:67] INFO cleaned  area:中国 内蒙古 北京市 天津市 山西省
+2016-11-30 13:57:55,802 sd_fa.py[line:71] INFO selected indi:GDP 房地产业增加值
+2016-11-30 13:58:07,401 sd_fa.py[line:78] INFO start sd_fa
+2016-11-30 13:58:07,411 sd_fa.py[line:66] INFO selected area:中国 内蒙古 北京市 天津市 山西省
+2016-11-30 13:58:07,413 sd_fa.py[line:67] INFO cleaned  area:中国 内蒙古 北京市 天津市 山西省
+2016-11-30 13:58:07,413 sd_fa.py[line:71] INFO selected indi:GDP 房地产业增加值
+2016-11-30 13:58:38,776 sd_fa.py[line:78] INFO start sd_fa
+2016-11-30 13:58:38,786 sd_fa.py[line:66] INFO selected area:中国 内蒙古 北京市 天津市 山西省
+2016-11-30 13:58:38,788 sd_fa.py[line:67] INFO cleaned  area:中国 内蒙古 北京市 天津市 山西省
+2016-11-30 13:58:38,788 sd_fa.py[line:71] INFO selected indi:GDP 房地产业增加值 货运量
+2016-11-30 14:13:26,394 sd_fa.py[line:78] INFO start sd_fa
+2016-11-30 14:13:26,405 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-30 14:13:26,405 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-11-30 14:13:26,407 sd_fa.py[line:71] INFO selected indi:乡村办水电站装机容量 互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 耕地面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-12-08 10:46:59,720 sd_fa.py[line:78] INFO start sd_fa
+2016-12-08 10:46:59,732 sd_fa.py[line:66] INFO selected area:内蒙古 北京市 天津市 山西省 河北省
+2016-12-08 10:46:59,733 sd_fa.py[line:67] INFO cleaned  area:内蒙古 北京市 天津市 山西省 河北省
+2016-12-08 10:46:59,733 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
+2016-12-20 10:33:44,279 sd_fa.py[line:78] INFO start sd_fa
+2016-12-20 10:33:44,292 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-12-20 10:33:44,293 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-12-20 10:33:44,293 sd_fa.py[line:71] INFO selected indi:乡村办水电站装机容量 互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 耕地面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-12-21 08:59:22,426 sd_fa.py[line:78] INFO start sd_fa
+2016-12-21 08:59:22,437 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-12-21 08:59:22,438 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-12-21 08:59:22,438 sd_fa.py[line:71] INFO selected indi:乡村办水电站装机容量 互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 耕地面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-12-21 18:17:50,339 sd_fa.py[line:78] INFO start sd_fa
+2016-12-21 18:17:50,351 sd_fa.py[line:66] INFO selected area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-12-21 18:17:50,352 sd_fa.py[line:67] INFO cleaned  area:四川省 山东省 广东省 江苏省 江西省 河南省 湖北省 湖南省 辽宁省 黑龙江
+2016-12-21 18:17:50,352 sd_fa.py[line:71] INFO selected indi:乡村办水电站装机容量 互联网上网人数 人口性别比 公共图书馆数 农业人口比重 农业增加值 农业机械总动力 农作物受灾面积 农用化肥施用量 耕地面积 财政支出中农林水事务支出 货运量 邮电业务总量
+2016-12-28 08:48:57,819 sd_fa.py[line:78] INFO start sd_fa
+2016-12-28 08:48:57,832 sd_fa.py[line:66] INFO selected area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:48:57,832 sd_fa.py[line:67] INFO cleaned  area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:48:57,832 sd_fa.py[line:71] INFO selected indi:固定资产投资额 工业增加值 工业污染治理完成投资 工业用水总量 规模以上工业利润总额
+2016-12-28 08:49:17,105 sd_fa.py[line:78] INFO start sd_fa
+2016-12-28 08:49:17,118 sd_fa.py[line:66] INFO selected area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:49:17,118 sd_fa.py[line:67] INFO cleaned  area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:49:17,118 sd_fa.py[line:71] INFO selected indi:固定资产投资额 工业增加值 工业污染治理完成投资 工业用水总量 规模以上工业利润总额
+2016-12-28 08:49:49,690 sd_fa.py[line:78] INFO start sd_fa
+2016-12-28 08:49:49,703 sd_fa.py[line:66] INFO selected area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:49:49,703 sd_fa.py[line:67] INFO cleaned  area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:49:49,703 sd_fa.py[line:71] INFO selected indi:固定资产投资额 工业增加值 工业污染治理完成投资 工业用水总量 规模以上工业企业发电量 规模以上工业企业流动负债 规模以上工业利润总额
+2016-12-28 08:50:05,309 sd_fa.py[line:78] INFO start sd_fa
+2016-12-28 08:50:05,323 sd_fa.py[line:66] INFO selected area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:50:05,325 sd_fa.py[line:67] INFO cleaned  area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:50:05,325 sd_fa.py[line:71] INFO selected indi:固定资产投资额 工业增加值 工业污染治理完成投资 工业用水总量 规模以上工业企业发电量 规模以上工业企业流动负债 规模以上工业利润总额
+2016-12-28 08:52:42,779 sd_fa.py[line:78] INFO start sd_fa
+2016-12-28 08:52:42,793 sd_fa.py[line:66] INFO selected area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:52:42,793 sd_fa.py[line:67] INFO cleaned  area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:52:42,795 sd_fa.py[line:71] INFO selected indi:固定资产投资额 工业产品销售率 工业增加值 工业污染治理完成投资 工业用水总量 规模以上工业企业发电量 规模以上工业企业流动负债 规模以上工业利润总额
+2016-12-28 08:53:59,470 sd_fa.py[line:78] INFO start sd_fa
+2016-12-28 08:53:59,483 sd_fa.py[line:66] INFO selected area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:53:59,483 sd_fa.py[line:67] INFO cleaned  area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:53:59,483 sd_fa.py[line:71] INFO selected indi:固定资产投资额 工业产品销售率 工业增加值 工业污染治理完成投资 工业用水总量 规模以上工业企业发电量 规模以上工业企业流动负债 规模以上工业利润总额
+2016-12-28 08:58:20,861 sd_fa.py[line:78] INFO start sd_fa
+2016-12-28 08:58:20,878 sd_fa.py[line:66] INFO selected area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:58:20,878 sd_fa.py[line:67] INFO cleaned  area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:58:20,880 sd_fa.py[line:71] INFO selected indi:固定资产投资额 工业产品销售率 工业增加值 工业污染治理完成投资 工业用水总量 规模以上工业利润总额
+2016-12-28 08:58:52,203 sd_fa.py[line:78] INFO start sd_fa
+2016-12-28 08:58:52,217 sd_fa.py[line:66] INFO selected area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:58:52,217 sd_fa.py[line:67] INFO cleaned  area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:58:52,217 sd_fa.py[line:71] INFO selected indi:固定资产投资额 工业产品销售率 工业增加值 工业污染治理完成投资 工业用水总量 规模以上工业利润总额
+2016-12-28 08:59:04,638 sd_fa.py[line:78] INFO start sd_fa
+2016-12-28 08:59:04,651 sd_fa.py[line:66] INFO selected area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:59:04,653 sd_fa.py[line:67] INFO cleaned  area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2016-12-28 08:59:04,653 sd_fa.py[line:71] INFO selected indi:固定资产投资额 工业产品销售率 工业增加值 工业污染治理完成投资 工业用水总量 规模以上工业企业发电量 规模以上工业企业流动负债 规模以上工业利润总额
+2017-01-03 16:26:51,611 sd_fa.py[line:78] INFO start sd_fa
+2017-01-03 16:26:51,625 sd_fa.py[line:66] INFO selected area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2017-01-03 16:26:51,627 sd_fa.py[line:67] INFO cleaned  area:上海市 云南省 内蒙古 北京市 吉林省 四川省 天津市 宁夏 安徽省 山东省 山西省 广东省 广西 新疆 江苏省 江西省 河北省 河南省 浙江省 海南省 湖北省 湖南省 甘肃省 福建省 西藏 贵州省 辽宁省 重庆市 陕西省 青海省 黑龙江
+2017-01-03 16:26:51,627 sd_fa.py[line:71] INFO selected indi:固定资产投资额 工业产品销售率 工业增加值 工业污染治理完成投资 工业用水总量 规模以上工业企业发电量 规模以上工业企业流动负债 规模以上工业利润总额
+2017-01-04 14:24:06,553 sd_fa.py[line:78] INFO start sd_fa
+2017-01-04 14:34:06,532 sd_fa.py[line:78] INFO start sd_fa
+2017-01-04 14:34:49,517 sd_fa.py[line:78] INFO start sd_fa
+2017-01-04 14:34:49,529 sd_fa.py[line:66] INFO selected area:北京市 吉林省 辽宁省 黑龙江
+2017-01-04 14:34:49,530 sd_fa.py[line:67] INFO cleaned  area:北京市 吉林省 辽宁省 黑龙江
+2017-01-04 14:34:49,530 sd_fa.py[line:71] INFO selected indi:高技术产业R&D经费内部支出 高技术产业技术改造经费支出 高技术产业进口贸易额 高等学校R&D人员全时当量
+2017-01-04 14:36:42,193 sd_fa.py[line:78] INFO start sd_fa
+2017-01-04 15:35:58,302 sd_fa.py[line:78] INFO start sd_fa
+2017-03-17 13:26:26,400 sd_fa.py[line:78] INFO start sd_fa
+2017-03-17 13:26:26,426 sd_fa.py[line:66] INFO selected area:中国 北京市 天津市 河北省
+2017-03-17 13:26:26,426 sd_fa.py[line:67] INFO cleaned  area:中国 北京市 天津市 河北省
+2017-03-17 13:26:26,427 sd_fa.py[line:71] INFO selected indi:GDP 第一产业增加值 第三产业增加值 第二产业增加值
